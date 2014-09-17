@@ -7,6 +7,7 @@ define( function( require ) {
 	var ShirtCollection      = require( 'js/collections/shirtCollection' );
 	var ShirtsModel     = require( 'js/models/shirtsModel' );
 	var ShirtsCollectionView = require( 'js/views/shirtsCollectionView' );
+	var ShirtDetailView = require( 'js/views/shirtsDetailView' );
 
 	var myApp = new Marionette.Application();
 	
@@ -16,13 +17,9 @@ define( function( require ) {
 
 	myApp.addInitializer(function() {
 		myApp.router = new MyRouter();
-		var mainLayout = new MainLayout();
+		myApp.mainLayout = new MainLayout();
+		myApp.body.show( myApp.mainLayout );
 
-		this.shirtCollection = new ShirtCollection();
-		this.shirtCollection.fetch();
-		this.shirtModel = new ShirtsModel();
-
-		this.body.show( mainLayout );
 	});
 
 	myApp.on('start', function() {
@@ -37,15 +34,30 @@ define( function( require ) {
 			':slug/shirt/:id': 'details'
 		},
 		home : function() {
-			myApp.body.currentView.content.show( new ShirtsCollectionView( { 
-				collection: myApp.shirtCollection
-			} ) );
+			shirtCollection = new ShirtCollection();
+			shirtCollection.fetch({
+				success: function() {
+					myApp.body.currentView.content.show( new ShirtsCollectionView( { 
+						collection: this.shirtCollection
+					} ) );
+				}
+			});
 		},
-		details : function( slug, id ) {			
-			// //shirtDetailModel = myApp.shirtCollection.get({'_id': '54120e0518ccf04d664f6172'});
-			// shirtsDetailView = new ShirtDetailView({
-			// 	model: myApp.shirtModel
-			// });
+		details : function( slug, id ) {
+			shirtModel = new ShirtsModel( {id : id} );
+			shirtModel.fetch({
+				success: function() {
+					myApp.body.currentView.content.show( new ShirtDetailView({
+						model: this.shirtModel
+					}) )
+					console.log("Fuck");
+				},
+				error: function(res) {
+					console.log("SHIT: " + JSON.stringify(res));
+				}
+			});
+			//console.log("URL: " + shirtModel.urlRoot)
+	        //myModel = myApp.model;
 		}
 	});
 
