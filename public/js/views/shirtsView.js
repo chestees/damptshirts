@@ -1,6 +1,7 @@
 define( function( require ) {
 	
 	var Marionette		= require( 'marionette' );
+	var ShirtCollection      = require( 'js/collections/shirtCollection' );
 	var tmplThumbnail = require( 'text!/templates/thumbnail.html' );
 
 	var ShirtsView = Marionette.ItemView.extend({
@@ -15,19 +16,9 @@ define( function( require ) {
 		, className: 'Product'
 		, initialize: function( options ) {
 			console.log("Shirt View initiated");
-			this.listenTo(this.model, "change", this.render);
+			
+			//this.listenTo(this.model, "change", this.render);
 		}
-		, showDetails: function( e ){
-	        var id = $(e.currentTarget).data("id");
-	        var myModel = this.model;
-	        console.log(myModel);
-	        require( [ 'js/views/shirtsDetailView' ], function( ShirtDetailView ) {
-					shirtDetailView = new ShirtDetailView({
-            		model: myModel
-            	});
-            	app.getRegion('body').currentView.content.show(shirtDetailView);
-			});
-	    }
 	});
 
 	return ShirtsView;
