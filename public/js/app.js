@@ -28,7 +28,6 @@ define( function( require ) {
 	});
 
 	var MyRouter = Backbone.Marionette.AppRouter.extend({
-		/* standard routes can be mixed with appRoutes/Controllers above */
 		routes : {
 			'': 'home',
 			':slug/shirt/:id': 'details'
@@ -50,10 +49,9 @@ define( function( require ) {
 					myApp.body.currentView.content.show( new ShirtDetailView({
 						model: this.shirtModel
 					}) )
-					console.log("Fuck");
 				},
 				error: function(res) {
-					console.log("SHIT: " + JSON.stringify(res));
+					console.log("ERROR: " + JSON.stringify(res));
 				}
 			});
 			//console.log("URL: " + shirtModel.urlRoot)

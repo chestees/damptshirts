@@ -7,9 +7,22 @@ define( function( require ) {
 
 	var ShirtsDetailView = Marionette.ItemView.extend({
 		template: _.template( tmplDetail )
-		, className: '.Detail'
+		, templateHelpers: function() {
+			return {
+				image: this.imageSize()
+			}
+		}
+		, className: '.detail'
 		, initialize: function( options ) {
 			console.log("DETAILS");
+		}
+		, imageSize: function() {
+			imageLg = this.model.get('imageLg');
+			imageSm = this.model.get('image');
+
+			!imageLg ? image = imageSm : image = imageLg;
+
+			return image;
 		}
 	});
 

@@ -100,9 +100,9 @@ h4 {font-size:14px; font-style:italic; color:#000000; margin:0;}
 .Product {display:inline-block; position:relative; vertical-align:top; width:174px; margin:0 9px 10px; text-align:center; overflow:hidden; zoom:1; *display:inline;}
 .Details {float:left; margin-top:3px;}
 
-.Product_Image a:link, .Product_Image a:visited {display:block; margin-bottom:5px; /*min-height:180px;*/}
-.Product_Image a:hover img {background-color:#B93636;}
-.Product_Image img {padding:2px; border:1px solid #455560; text-align:center; color:#000000; max-width:168px; max-height:168px;}
+.product-image a:link, .product-image a:visited {display:block; margin-bottom:5px; /*min-height:180px;*/}
+.product-image a:hover img {background-color:#B93636;}
+.product-image img {padding:2px; border:1px solid #455560; text-align:center; color:#000000; max-width:168px; max-height:168px;}
 a.details:link, a.details:visited {font-size:12px; color:#E04747; margin-left:5px;}
 a.details:hover {text-decoration:none; color:#2F7FEB;}
 .PlusMinus {font-size:30px; width:95px; border-radius:33px; border:1px solid #fff; box-shadow: 3px 3px 4px #000; font-weight:bold; color:#000; padding:10px; text-align:center; background: rgba(255, 255, 255, 0.8);}

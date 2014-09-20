@@ -7,7 +7,7 @@ define( function( require ) {
 	var ShirtsView = Marionette.ItemView.extend({
 		template: _.template( tmplThumbnail )
 		, ui: {
-			'product': '.Product_Image'
+			'product': '.product_image'
 			, 'productLink': '.product-link'
 		}
 		, events: {
