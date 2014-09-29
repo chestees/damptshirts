@@ -13,16 +13,13 @@
     "bower_components"
   ],
   "dependencies": {
-    "grunt": "~0.4.5",
     "backbone": "~1.1.2",
-    "bootstrap": "~3.1.1",
-    "express": "*",
-    "handlebars": "~1.3.0",
+    "bootstrap": "~3.2.0",
     "jquery": "~1.11.0",
     "marionette": "~1.7.1",
     "requirejs": "~2.1.11",
     "requirejs-text": "~2.0.10",
     "underscore": "~1.6.0",
-    "mongojs": "*"
+    "velocity": "~1.1.*"
   }
 }
