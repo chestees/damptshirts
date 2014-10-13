@@ -8,7 +8,10 @@ define( function( require ) {
 		, url: '/api/shirts'
 		, initialize: function() {
 			console.log('Shirt Collection Initialized');
-			//this.listenTo(this.collection, "sort", this.renderCollection);
+			this.listenTo( this, "sort", this.render );
+		}
+		, comparator: function( model ) {
+			return -model.get( 'thumbs' );
 		}
 	});
 

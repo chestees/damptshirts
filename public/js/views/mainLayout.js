@@ -15,7 +15,7 @@ define( function( require ) {
 			header: 	   'header'
 			, aside: 	   'aside'
 			, content: 	   'article'
-			, detailModal: '.modal'
+			, detailModal: '.detail-modal'
 		}
 		, onRender: function( options ) {
 			this.header.show( new HeaderView() );
