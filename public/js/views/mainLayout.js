@@ -1,9 +1,10 @@
 define( function( require ) {
 
-	var Backbone             = require( 'backbone' );
-	var Marionette           = require( 'marionette' );
-	var HeaderView 		     = require( 'js/views/headerView' );
-	var AsideView 		     = require( 'js/views/asideView' );
+	var Backbone     = require( 'backbone' );
+	var Marionette   = require( 'marionette' );
+	var HeaderView   = require( 'js/views/headerView' );
+	var AsideView    = require( 'js/views/asideView' );
+	var ShirtsLayout = require( 'js/views/shirtsLayout' );
 	
 	var tmplMainLayout 		 = require( 'text!/templates/mainLayout.html' );
 
@@ -11,17 +12,15 @@ define( function( require ) {
 		template: _.template( tmplMainLayout )
 		, className: 'layout'
 		, regions: {
-			header: 	'header'
-			, aside: 	'aside'
-			, content: 	'article'
-		}
-		, initialize: function() {
-			
+			header: 	   'header'
+			, aside: 	   'aside'
+			, content: 	   'article'
+			, detailModal: '.detail-modal'
 		}
 		, onRender: function( options ) {
 			this.header.show( new HeaderView() );
 			this.aside.show( new AsideView() );
-			
+
 			console.log('Main Layout Rendered');
 		}
 	});

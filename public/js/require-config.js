@@ -8,7 +8,8 @@ requirejs.config({
 		handlebars: 'bower_components/handlebars/handlebars.runtime',
 		marionette: 'bower_components/marionette/lib/backbone.marionette',
 		bootstrap: 	'bower_components/bootstrap/dist/js/bootstrap',
-		fuelux: 	'bower_components/fuelux/dist/all'
+		fuelux: 	'bower_components/fuelux/dist/all',
+		velocity:   'bower_components/velocity/velocity',
 	}, 
 	shim: {
 		'underscore': {
@@ -21,6 +22,10 @@ requirejs.config({
 		'marionette' : {
 	      deps : ['backbone'],
 	      exports : 'Marionette'
+	    },
+	    'bootstrap': {
+	    	deps: [ 'jquery' ],
+	    	exports: 'Bootstrap'
 	    }
 	}
 });

@@ -5,6 +5,9 @@ define( function( require ) {
 	
 	var ShirtsCollectionView = Marionette.CollectionView.extend({
 		itemView: ShirtsView
+		, initialize: function() {
+			this.listenTo(shirtCollection, "sort", this.render);
+		}
 		, id: 'shirts'
 	});
 

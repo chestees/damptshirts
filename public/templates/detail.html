@@ -1,13 +1,28 @@
-<h1></h1>
-<div class="coupon_bar clearfix"><div class="coupon_title">Did somebody say discount?</div>
-  <div class="coupon_text">Free shipping on orders $75 or more (US only)</div>
-</div>
-<div class="main_right">
-  <h1><%= title %></h1>
-  <a class="detail_img" href="" target="_blank">
-	<img src="<%= image %>" style="border-width:0px;">
-  </a>
-  <ul class="tags_shirt clearfix"><li>Tags:</li>
-      <li><a class="btn" href="/shirt/tag/1/snorg-tees/"></a></li>
-    </ul>
+<div class="modal fade">
+	<div class="modal-dialog">
+	    <div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h3><%= title %></h3>
+			</div>
+			<div class="modal-body">
+				<div class="coupon_bar"><div class="coupon_title">Did somebody say discount?</div>
+					<div class="coupon_text">Free shipping on orders $75 or more (US only)</div>
+				</div>
+				<div class="product-image"><img src="<%= image %>"></div>
+				<div>From "vendor"</div>
+				<div>Show other shirts in this tag</div>
+				<div class="coupon_bar"><div class="coupon_title">Share</div>
+					<div class="coupon_text">Social goes here.</div>
+				</div>
+				<ul class="tags_shirt clearfix"><li>Tags:</li>
+			  		<li><a class="btn" href="/shirt/tag/1/snorg-tees/"></a></li>
+				</ul>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-link" data-dismiss="modal">Close</button>
+				<button href="#" class="btn btn-danger">Buy Me</button>
+			</div>
+		</div>
+	</div>
 </div>
