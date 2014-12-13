@@ -16,13 +16,16 @@ define( function( require ) {
 		, events: {
 			'click @ui.logo': 'showHome'
 		}
+		, initialize: function( options ) {
+			this.app = options;
+		}
 		, render: function() {
 			this.$el.html( this.template( options ) );
 			console.log("Header Rendered!");
 			return this;
 		}
 		, showHome: function() {
-			app.mainLayout.content.show( new ShirtsLayout() );
+			app.mainLayout.content.show( new ShirtsLayout( this.app ) );
 			app.router.navigate( '/' );
 		}
 	});

@@ -1,76 +1,94 @@
 define( function( require ) {
 	
 	var Marionette		= require( 'marionette' );
+	var Velocity        = require( 'velocity' );
+	var Moment          = require( 'moment' );
 
 	var ShirtCollection = require( 'js/collections/shirtCollection' );
 	var ShirtModel      = require( 'js/models/shirtsModel.js' );
+	var ShirtDetailView = require( 'js/views/shirtsDetailView' );
 
 	var tmplThumbnail   = require( 'text!/templates/thumbnail.html' );
 
 	var ShirtsView = Marionette.ItemView.extend({
 		template: _.template( tmplThumbnail )
 		, ui: {
-			'thumbs': '.thumbs',
+			'productLink': '.product-link',
 			'productImage': '.product-image',
+			'thumbs': '.thumbs',
+			'thumbsInfo': '.thumbs_info',
 			'voteUp': '.vote-up',
-			'voteDown': '.vote-down'
+			'voteDown': '.vote-down',
+			'voteCount': '.vote-count',
+			'destroyMe': '.destroyMe'
 		}
 		, events: {
 			'mouseenter': 'showVoting',
 			'mouseleave': 'hideVoting',
 			'click @ui.voteUp': 'voteUp',
-			'click @ui.voteDown': 'voteDown'
+			'click @ui.voteDown': 'voteDown',
+			'click @ui.productImage': 'showDetail'
 		}
+		, className: 'product'
 		, templateHelpers: function() {
 			return {
-				thumbs: this.thumbs
-			}
+				dateAdded: moment( this.model.get( 'dateAdded' )).fromNow()
+			};
 		}
-		, className: 'product-image'
 		, initialize: function( options ) {
-			console.log("Shirt View initiated");
-			
-			this.listenTo(this.model, "change", this.render);
+
+		}
+		, onRender: function() {
+			//this.ui.thumbs.height( this.ui.productImage.height() + 50 );
+		}
+		, showDetail: function( model ) {
+			app.mainLayout.content.currentView.detailModal.show( new ShirtDetailView( this.model ) );
 		}
 		, showVoting: function() {
-			$( this.el ).popover({
-				content: this.voteContent( this.model ),
-				placement: 'top',
-				container: $( this.el ),
-				html: true,
-				delay: { show: 500, hide: 100 }
+			this.showRollover = setTimeout( _.bind( this.productRollover, this ), 300 );
+		}
+		, productRollover: function() {
+			var padding = 20;
+			var rolloverWidth = this.ui.productImage.outerWidth() + padding*2;
+			// Get the thumbs buttons height
+			var infoHeight = this.ui.thumbsInfo.clone().appendTo( this.el ).css({
+				'position': 'absolute'
+				, 'left': -1000
+			}).attr('class', 'destroyMe').outerHeight();
+			this.bindUIElements();
+			var infoWidth = this.ui.destroyMe.outerWidth();
+			this.ui.destroyMe.remove()
+			
+			this.ui.thumbs.height( this.ui.productImage.height() + infoHeight + 40 );
+			this.ui.thumbs.velocity( 'fadeIn', { 
+				duration: 100
+			}).css({
+				'width': rolloverWidth
+				, 'top': -1*padding
+				, 'left': -1*padding
 			});
-			$( this.el ).popover('show');
-			$( this.ui.productImage ).css('background-color', '#b93636');
+			this.ui.thumbsInfo.css({
+				'left': ( rolloverWidth - infoWidth ) / 2
+			});
 		}
 		, hideVoting: function() {
-			$( this.el ).popover('hide');
-			$( this.ui.productImage ).css('background-color', 'transparent');
+			clearTimeout( this.showRollover );
+			this.ui.thumbs.css( 'display', 'none' );
 		}
-		, voteContent: function( model ) {
-			var content = "<div class='thumbs' data-id='" + model.get( '_id' ) + "'> \
-				<div class='btn btn-danger vote-down'> \
-					<span class='txt'>Meh</span> \
-				</div> \
-				<div class='btn btn-primary l_margin_5 vote-up'> \
-					<span class='txt'>Like</span> \
-				</div> \
-				<div class='like-score'>Score: " + model.get( 'thumbs' ) + "</div> \
-				<div class='like-score'>Score: " + model.get( 'dateAdded' ) + "</div> \
-			</div>"
-
-			return content;
-		}
-		, voteUp: function() {
+		, voteUp: function( $event ) {
 			var thumbs = this.model.get( 'thumbs' ) + 1;
-			//this.model.set( 'id', this.model.get("_id") );
 			this.model.save( { 'thumbs': thumbs }, { patch: true } );
+			this.voteUpdate();
+			$( $event.currentTarget ).prop( 'disabled', true ).addClass( 'disabled' );
 		}
-		, voteDown: function() {
+		, voteDown: function( $event ) {
 			var thumbs = this.model.get( 'thumbs' ) - 1;
-			//this.model.url( '/api/vote');
-			//this.model.set( 'id', this.model.get("_id") );
 			this.model.save( {'thumbs': thumbs}, {patch: true} );
+			this.voteUpdate();
+			$( $event.currentTarget ).prop( 'disabled', true ).addClass( 'disabled' );
+		}
+		, voteUpdate: function() {
+			this.ui.voteCount.html( this.model.get( 'thumbs' ) );
 		}
 	});
 
