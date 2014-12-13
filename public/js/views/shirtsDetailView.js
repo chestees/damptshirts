@@ -1,6 +1,6 @@
 define( function( require ) {
 	
-	var Marionette      = require( 'marionette' );
+	var Marionette = require( 'marionette' );
 
 	var tmplDetail = require( 'text!/templates/detail.html' );
 
@@ -11,9 +11,12 @@ define( function( require ) {
 				image: this.imageSize()
 			}
 		}
-		, className: 'detail'
+		, className: 'modal fade'
 		, initialize: function( options ) {
-			console.log("DETAILS");
+			this.model = options;
+		}
+		, onRender: function() {
+			$( this.el ).modal('show')
 		}
 		, imageSize: function() {
 			imageLg = this.model.get('imageLg');

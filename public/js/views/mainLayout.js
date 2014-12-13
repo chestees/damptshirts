@@ -12,13 +12,15 @@ define( function( require ) {
 		template: _.template( tmplMainLayout )
 		, className: 'layout'
 		, regions: {
-			header: 	   'header'
-			, aside: 	   'aside'
-			, content: 	   'article'
-			, detailModal: '.detail-modal'
+			header:    'header'
+			, aside:   'aside'
+			, content: 'article'
 		}
-		, onRender: function( options ) {
-			this.header.show( new HeaderView() );
+		, initialize: function( options ) {
+			this.app = options;
+		}
+		, onRender: function() {
+			this.header.show( new HeaderView( this.app ) );
 			this.aside.show( new AsideView() );
 
 			console.log('Main Layout Rendered');

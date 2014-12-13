@@ -10,6 +10,7 @@ requirejs.config({
 		bootstrap: 	'bower_components/bootstrap/dist/js/bootstrap',
 		fuelux: 	'bower_components/fuelux/dist/all',
 		velocity:   'bower_components/velocity/velocity',
+		moment:     'bower_components/moment/moment',
 	}, 
 	shim: {
 		'underscore': {
