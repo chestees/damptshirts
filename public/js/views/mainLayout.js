@@ -8,7 +8,7 @@ define( function( require ) {
 	
 	var tmplMainLayout 		 = require( 'text!/templates/mainLayout.html' );
 
-	mainLayoutView = Marionette.Layout.extend({
+	mainLayoutView = Marionette.LayoutView.extend({
 		template: _.template( tmplMainLayout )
 		, className: 'layout'
 		, regions: {

@@ -8,7 +8,7 @@ define( function( require ) {
 
 	var tmplShirts = require( 'text!/templates/shirts.html' );
 
-	shirtsLayout = Marionette.Layout.extend({
+	shirtsLayout = Marionette.LayoutView.extend({
 		template: _.template( tmplShirts )
 		, className: 'shirts'
 		, regions: {
@@ -26,14 +26,11 @@ define( function( require ) {
 		}
 		, onRender: function() {
 			this.sortBar.show( new SortBar( this.app ) );
-			this.shirtsList.show( new ShirtsCollectionView({ 
-				collection: this.collection
-			}));
+			this.shirtsList.show( new ShirtsCollectionView( this.app ) );
 
 			if( this.id ) {
 				this.detailModal.show( new ShirtDetail( shirtModel ) );
 			};
-			
 			console.log('Shirt Layout Rendered');
 		}
 	});

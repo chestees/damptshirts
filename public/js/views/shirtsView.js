@@ -35,11 +35,14 @@ define( function( require ) {
 				dateAdded: moment( this.model.get( 'dateAdded' )).fromNow()
 			};
 		}
-		, initialize: function( options ) {
-
-		}
-		, onRender: function() {
-			//this.ui.thumbs.height( this.ui.productImage.height() + 50 );
+		, onRender: function( options ) {
+			var border = 2;
+			var padding = 4;
+			var margin = 10;
+			this.ui.productImage.css( {
+				'width': options.options.maxWidth - margin
+			} );
+			console.log( this.$el.outerWidth() );
 		}
 		, showDetail: function( model ) {
 			app.mainLayout.content.currentView.detailModal.show( new ShirtDetailView( this.model ) );
@@ -88,7 +91,7 @@ define( function( require ) {
 			$( $event.currentTarget ).prop( 'disabled', true ).addClass( 'disabled' );
 		}
 		, voteUpdate: function() {
-			this.ui.voteCount.html( this.model.get( 'thumbs' ) );
+			this.ui.voteCount.html( this.model.get( 'thumbs' ) + ' votes' );
 		}
 	});
 

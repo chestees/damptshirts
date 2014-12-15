@@ -18,14 +18,15 @@
 
 Marionette.AppRouter = Backbone.Router.extend({
 
-  constructor: function(options){
-    Backbone.Router.prototype.constructor.apply(this, arguments);
-	
+  constructor: function(options) {
+    Backbone.Router.apply(this, arguments);
+
     this.options = options || {};
 
-    var appRoutes = Marionette.getOption(this, "appRoutes");
+    var appRoutes = this.getOption('appRoutes');
     var controller = this._getController();
     this.processAppRoutes(controller, appRoutes);
+    this.on('route', this._processOnRoute, this);
   },
 
   // Similar to route method on a Backbone Router but
@@ -35,11 +36,23 @@ Marionette.AppRouter = Backbone.Router.extend({
     this._addAppRoute(controller, route, methodName);
   },
 
+  // process the route event and trigger the onRoute
+  // method call, if it exists
+  _processOnRoute: function(routeName, routeArgs) {
+    // find the path that matched
+    var routePath = _.invert(this.getOption('appRoutes'))[routeName];
+
+    // make sure an onRoute is there, and call it
+    if (_.isFunction(this.onRoute)) {
+      this.onRoute(routeName, routePath, routeArgs);
+    }
+  },
+
   // Internal method to process the `appRoutes` for the
   // router, and turn them in to routes that trigger the
   // specified method on the specified `controller`.
   processAppRoutes: function(controller, appRoutes) {
-    if (!appRoutes){ return; }
+    if (!appRoutes) { return; }
 
     var routeNames = _.keys(appRoutes).reverse(); // Backbone requires reverted order of routes
 
@@ -48,18 +61,20 @@ Marionette.AppRouter = Backbone.Router.extend({
     }, this);
   },
 
-  _getController: function(){
-    return Marionette.getOption(this, "controller");
+  _getController: function() {
+    return this.getOption('controller');
   },
 
-  _addAppRoute: function(controller, route, methodName){
+  _addAppRoute: function(controller, route, methodName) {
     var method = controller[methodName];
 
     if (!method) {
-      throwError("Method '" + methodName + "' was not found on the controller");
+      throw new Marionette.Error('Method "' + methodName + '" was not found on the controller');
     }
 
     this.route(route, methodName, _.bind(method, controller));
-  }
-});
+  },
 
+  // Proxy `getOption` to enable getting options from this or this.options by name.
+  getOption: Marionette.proxyGetOption
+});
