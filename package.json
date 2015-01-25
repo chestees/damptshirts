@@ -9,7 +9,8 @@
   "dependencies": {
     "express": "4.9.1",
     "mongoose": "3.8.17",
-    "body-parser": "~1.8.2"
+    "body-parser": "~1.8.2",
+    "node-restful": "~0.1.17"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
