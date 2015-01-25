@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node server"
   },
+  "engines": {
+    "node": "0.10.x"
+  },
   "dependencies": {
     "express": "4.9.1",
     "mongoose": "3.8.17",
