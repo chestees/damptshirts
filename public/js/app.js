@@ -22,7 +22,7 @@ define( function( require ) {
 		
 		app.collection = new ShirtCollection();
 		app.collection.fetch().done( function() {
-			app.mainLayout = new MainLayout( { app: app } );
+			app.mainLayout = new MainLayout( app );
 			app.body.show( app.mainLayout );
 			app.router = new Router( app );
 

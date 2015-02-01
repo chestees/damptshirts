@@ -14,7 +14,7 @@ define( function( require ) {
 		, regions: {
 			sortBar:     '.sort-bar',
 			shirtsList:  '.shirts-list',
-			detailModal: '.detailModal'
+			detailModal: '.detail'
 		}
 		, initialize: function( options ) {
 			this.app = options.app
@@ -29,7 +29,7 @@ define( function( require ) {
 			this.shirtsList.show( new ShirtsCollectionView( this.app ) );
 
 			if( this.id ) {
-				this.detailModal.show( new ShirtDetail( shirtModel ) );
+				this.detail.show( new ShirtDetail( shirtModel ) );
 			};
 			console.log('Shirt Layout Rendered');
 		}

@@ -44,8 +44,8 @@ define( function( require ) {
 			} );
 			console.log( this.$el.outerWidth() );
 		}
-		, showDetail: function( model ) {
-			app.mainLayout.content.currentView.detailModal.show( new ShirtDetailView( this.model ) );
+		, showDetail: function() {
+			app.mainLayout.content.show( new ShirtDetailView( this.model ) );
 		}
 		, showVoting: function() {
 			this.showRollover = setTimeout( _.bind( this.productRollover, this ), 300 );

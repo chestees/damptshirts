@@ -1,10 +1,11 @@
 define( function( require ) {
 	'use strict';
 
-	var Marionette      = require( 'marionette' );
+	var Marionette  = require( 'marionette' );
 
-	var ShirtsLayout    = require( 'js/views/shirtsLayout' );
-	var TagListView     = require( 'js/views/tagsView' );
+	var ShirtsCollectionView  = require( 'js/views/shirtsCollectionView' );
+	var TagListView = require( 'js/views/tagsView' );
+	var DetailView  = require( 'js/views/shirtsDetailView' );
 
 	var Router = Marionette.AppRouter.extend({
 		initialize: function( options ) {
@@ -12,19 +13,17 @@ define( function( require ) {
 		}
 		, routes : {
 			'': 'home',
-			':slug/shirt/:id': 'details',
+			':slug/shirt': 'details',
 			'tag-list': 'tagList',
 		}
 		, home : function() {
-			if ( !this.app.mainLayout.content.currentView ) {
-				this.app.body.currentView.content.show( new ShirtsLayout( { app: this.app } ) );
-			}
+			this.app.mainLayout.content.show( new ShirtsCollectionView( this.app ) );
 		}
-		, details : function( slug, id ) {
-			if ( !this.app.mainLayout.content.currentView ) {
-				var shirtsLayout = new ShirtsLayout( { app: this.app, id: id } );
-				this.app.mainLayout.content.show( shirtsLayout );
-			}
+		, details : function( slug ) {
+			var model = _.find( app.collection.models, function( model ) { 
+				return model.get( 'slug' ) === slug;
+			} );
+			this.app.mainLayout.content.show( new DetailView( { model: model } ) );
 		}
 		, tagList : function() {
 			this.app.body.currentView.content.show( new TagListView() );

@@ -4,7 +4,6 @@ define( function( require ) {
 	var Marionette   = require( 'marionette' );
 	var HeaderView   = require( 'js/views/headerView' );
 	var AsideView    = require( 'js/views/asideView' );
-	var ShirtsLayout = require( 'js/views/shirtsLayout' );
 	
 	var tmplMainLayout 		 = require( 'text!/templates/mainLayout.html' );
 

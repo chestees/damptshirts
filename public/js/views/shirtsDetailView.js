@@ -11,12 +11,12 @@ define( function( require ) {
 				image: this.imageSize()
 			}
 		}
-		, className: 'modal fade'
+		, className: 'detail'
 		, initialize: function( options ) {
-			this.model = options;
+			this.model = options.model;
 		}
 		, onRender: function() {
-			$( this.el ).modal('show')
+			
 		}
 		, imageSize: function() {
 			imageLg = this.model.get('imageLg');

@@ -2,7 +2,7 @@ define( function( require ) {
 
 	var Marionette 		= require( 'marionette' );
 
-	var ShirtsLayout = require( 'js/views/shirtsLayout' );
+	var ShirtsCollectionView = require( 'js/views/shirtsCollectionView' );
 
 	//TEMPLATE
 	var tmplHeader = require( 'text!/templates/header.html' );
@@ -25,7 +25,7 @@ define( function( require ) {
 			return this;
 		}
 		, showHome: function() {
-			app.mainLayout.content.show( new ShirtsLayout( this.app ) );
+			app.mainLayout.content.show( new ShirtsCollectionView( this.app ) );
 			app.router.navigate( '/' );
 		}
 	});
