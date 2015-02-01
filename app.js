@@ -39,6 +39,6 @@ var Shirts = restful.model( 'products3', ShirtSchema );
 Shirts.methods( ['get', 'put', 'post', 'delete'] );
 Shirts.register(app, '/api/shirts');
 
-app.get('/*', function  (req, res) {
-	res.json(404, {status: 'Nobody here by that name.'});
+app.use('/*', function  (req, res) {
+  res.redirect('404.html');
 } );
