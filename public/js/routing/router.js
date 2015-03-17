@@ -6,6 +6,7 @@ define( function( require ) {
 	var ShirtsCollectionView  = require( 'js/views/shirtsCollectionView' );
 	var TagListView = require( 'js/views/tagsView' );
 	var DetailView  = require( 'js/views/shirtsDetailView' );
+	var ScraperView = require( 'js/views/scraper' );
 
 	var Router = Marionette.AppRouter.extend({
 		initialize: function( options ) {
@@ -15,6 +16,7 @@ define( function( require ) {
 			'': 'home',
 			':slug/shirt': 'details',
 			'tag-list': 'tagList',
+			'scraper': 'scraper'
 		}
 		, home : function() {
 			this.app.mainLayout.content.show( new ShirtsCollectionView( this.app ) );
@@ -27,6 +29,9 @@ define( function( require ) {
 		}
 		, tagList : function() {
 			this.app.body.currentView.content.show( new TagListView() );
+		}
+		, scraper : function() {
+			this.app.mainLayout.content.show( new ScraperView( this.app ) );
 		}
 	});
 	return Router;

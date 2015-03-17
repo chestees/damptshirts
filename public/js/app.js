@@ -8,9 +8,9 @@ define( function( require ) {
 	var HeaderView      = require( 'js/views/headerView' );
 	
 	var ShirtCollection      = require( 'js/collections/shirtCollection' );
-	var ShirtsModel          = require( 'js/models/shirtsModel' );
-	var ShirtsCollectionView = require( 'js/views/shirtsCollectionView' );
-	var ShirtDetailView      = require( 'js/views/shirtsDetailView' );
+	// var ShirtsModel          = require( 'js/models/shirtsModel' );
+	// var ShirtsCollectionView = require( 'js/views/shirtsCollectionView' );
+	// var ShirtDetailView      = require( 'js/views/shirtsDetailView' );
 
 	var app = new Marionette.Application();
 	
@@ -19,7 +19,6 @@ define( function( require ) {
 	});
 
 	app.addInitializer(function() {
-		
 		app.collection = new ShirtCollection();
 		app.collection.fetch().done( function() {
 			app.mainLayout = new MainLayout( app );
