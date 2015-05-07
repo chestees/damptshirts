@@ -1,11 +1,11 @@
 requirejs.config({
-	baseUrl: '/',
+	baseUrl: './',
 	paths: {
 		backbone: 	'bower_components/backbone/backbone',
 		underscore: 'bower_components/underscore/underscore',
 		text: 		'bower_components/requirejs-text/text',
 		jquery: 	'bower_components/jquery/dist/jquery',
-		handlebars: 'bower_components/handlebars/handlebars.runtime',
+		handlebars: 'bower_components/handlebars/handlebars',
 		marionette: 'bower_components/marionette/lib/backbone.marionette',
 		bootstrap: 	'bower_components/bootstrap/dist/js/bootstrap',
 		fuelux: 	'bower_components/fuelux/dist/all',
@@ -24,14 +24,9 @@ requirejs.config({
 	      deps : ['backbone'],
 	      exports : 'Marionette'
 	    },
-	    'bootstrap': {
-	    	deps: [ 'jquery' ],
-	    	exports: 'Bootstrap'
-	    }
+		'bootstrap': {
+			deps: [ 'jquery' ],
+			exports: 'Bootstrap'
+		}
 	}
-});
-
-require(['js/app'], function( myApp ) {
-	myApp.start();
-	app = myApp;
 });

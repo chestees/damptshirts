@@ -8,17 +8,17 @@ define( function( require ) {
 	var HeaderView      = require( 'js/views/headerView' );
 	
 	var ShirtCollection      = require( 'js/collections/shirtCollection' );
-	// var ShirtsModel          = require( 'js/models/shirtsModel' );
-	// var ShirtsCollectionView = require( 'js/views/shirtsCollectionView' );
-	// var ShirtDetailView      = require( 'js/views/shirtsDetailView' );
 
 	var app = new Marionette.Application();
 	
 	app.addRegions({
 		body: 'body'
 	});
+	
+	var ShirtModel = Backbone.Model.extend();
+	app.shirtModel = new ShirtModel();
 
-	app.addInitializer(function() {
+	app.addInitializer( function() {
 		app.collection = new ShirtCollection();
 		app.collection.fetch().done( function() {
 			app.mainLayout = new MainLayout( app );
@@ -26,8 +26,8 @@ define( function( require ) {
 			app.router = new Router( app );
 
 			Backbone.history.start();
-		});
-	});
+		} )
+	} );
 
 	app.on('start', function() {
 		console.log('App Started');

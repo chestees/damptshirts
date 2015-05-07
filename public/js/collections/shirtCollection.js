@@ -5,7 +5,8 @@ define( function( require ) {
 
 	var ShirtCollection = Backbone.Collection.extend({
 		model: ShirtsModel
-		, url: '/api/shirts'
+		// , url: 'http://damptshirts.herokuapp.com/api/shirts'
+		, url: 'api/products'
 		, initialize: function() {
 			console.log('Shirt Collection Initialized');
 			this.listenTo( this, "sort", this.render );

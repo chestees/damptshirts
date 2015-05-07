@@ -5,7 +5,7 @@ define( function( require ) {
 	var ShirtsCollectionView = require( 'js/views/shirtsCollectionView' );
 
 	//TEMPLATE
-	var tmplHeader = require( 'text!/templates/header.html' );
+	var tmplHeader = require( 'text!templates/header.html' );
 
 	options = {};
 	var HeaderView = Marionette.ItemView.extend({
@@ -25,8 +25,8 @@ define( function( require ) {
 			return this;
 		}
 		, showHome: function() {
-			app.mainLayout.content.show( new ShirtsCollectionView( this.app ) );
-			app.router.navigate( '/' );
+			this.app.mainLayout.content.show( new ShirtsCollectionView( this.app ) );
+			this.app.router.navigate( '/' );
 		}
 	});
 

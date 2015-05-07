@@ -1,0 +1,2386 @@
+[
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/b/-/bustedtees.db719c5b-0c9d-4fac-aa3c-c30d2cdd.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/summer-of-mystery.gif",
+        "filename": "summer-of-mystery.gif",
+        "title": "Summer of Mystery",
+        "slug": "summer-of-mystery",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/summer-of-mystery.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/4/-/bustedtees.fe385b64-f4aa-4391-aa38-8f38d01f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/watch-the-world-burn.gif",
+        "filename": "watch-the-world-burn.gif",
+        "title": "Watch the World Burn",
+        "slug": "watch-the-world-burn",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/watch-the-world-burn.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/c/-/bustedtees.18bffe9c-9ed9-45d2-9439-dbce7e9d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/zelda-item-triforce.gif",
+        "filename": "zelda-item-triforce.gif",
+        "title": "Zelda Item Triforce",
+        "slug": "zelda-item-triforce",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/zelda-item-triforce.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/2/-/bustedtees.7d468a12-a663-454f-8ab6-04dc14d7.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/haters-gonna-hate.gif",
+        "filename": "haters-gonna-hate.gif",
+        "title": "Haters Gonna Hate",
+        "slug": "haters-gonna-hate",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/haters-gonna-hate.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/5/-/bustedtees.9a6eee85-4655-4135-a501-3478bcfe.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/thats-no-moon.gif",
+        "filename": "thats-no-moon.gif",
+        "title": "That's No Moon",
+        "slug": "thats-no-moon",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/thats-no-moon.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/8/-/bustedtees.3e89b1f8-3a83-4d8f-9e0b-916d5cc4.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/hans.gif",
+        "filename": "hans.gif",
+        "title": "Hans",
+        "slug": "hans",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/hans.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/7/-/bustedtees.c7adfe07-b423-4558-b82a-de518fa3.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/lesters-possum-park.gif",
+        "filename": "lesters-possum-park.gif",
+        "title": "Lester's Possum Park",
+        "slug": "lesters-possum-park",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/lesters-possum-park.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/f/-/bustedtees.bb287c2f-bf8c-4fb0-b625-7c123874.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/bohemian-holograms.gif",
+        "filename": "bohemian-holograms.gif",
+        "title": "Bohemian Holograms",
+        "slug": "bohemian-holograms",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/bohemian-holograms.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/2/-/bustedtees.7f4960a2-13a8-42d3-98b9-60c0c7c5.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/two-suns-of-fun.gif",
+        "filename": "two-suns-of-fun.gif",
+        "title": "Two Suns of Fun",
+        "slug": "two-suns-of-fun",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/two-suns-of-fun.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/d/-/bustedtees.1b9a5b9d-7981-41bd-b858-a9ea499e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/rubacava-.gif",
+        "filename": "rubacava-.gif",
+        "title": "Rubacava ",
+        "slug": "rubacava-",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/rubacava-.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/e/-/bustedtees.9473487e-aaea-495e-bb57-1c7c3217.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/rebel-paths.gif",
+        "filename": "rebel-paths.gif",
+        "title": "Rebel Paths",
+        "slug": "rebel-paths",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/rebel-paths.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/c/-/bustedtees.51af531c-1a0c-47b2-a757-dd7191c8.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/cologne.gif",
+        "filename": "cologne.gif",
+        "title": "Cologne",
+        "slug": "cologne",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/cologne.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/6/-/bustedtees.764d2f26-3bd4-4fa0-b366-5d4c15a3.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/2nd-place-blaster-duel-trophy.gif",
+        "filename": "2nd-place-blaster-duel-trophy.gif",
+        "title": "2nd Place Blaster Duel Trophy",
+        "slug": "2nd-place-blaster-duel-trophy",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/2nd-place-blaster-duel-trophy.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/a/-/bustedtees.2370f72a-1184-4d1a-a1d4-9aefc7e8.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/beets-by-schrute.gif",
+        "filename": "beets-by-schrute.gif",
+        "title": "Beets by Schrute",
+        "slug": "beets-by-schrute",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/beets-by-schrute.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/5/-/bustedtees.4696f445-ac89-4cd1-9812-cc2561dc.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/poker-dogs.gif",
+        "filename": "poker-dogs.gif",
+        "title": "Poker Dogs",
+        "slug": "poker-dogs",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/poker-dogs.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/f/-/bustedtees.5cc7901f-8f54-4444-be7a-67d6f5dc.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/ooyl.gif",
+        "filename": "ooyl.gif",
+        "title": "OOYL",
+        "slug": "ooyl",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/ooyl.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/7/-/bustedtees.0ca5c277-8c28-415e-b716-e4c1605f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/support-our-troops.gif",
+        "filename": "support-our-troops.gif",
+        "title": "Support our Troops",
+        "slug": "support-our-troops",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/support-our-troops.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/1/-/bustedtees.b9c186b1-2d55-4c41-a70d-0b194f5a.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/vandelay-industries.gif",
+        "filename": "vandelay-industries.gif",
+        "title": "Vandelay Industries",
+        "slug": "vandelay-industries",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/vandelay-industries.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/6/-/bustedtees.9b6afd36-7555-43f9-aaa1-c07a63f3.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/sauron-sauroff.gif",
+        "filename": "sauron-sauroff.gif",
+        "title": "Sauron Sauroff",
+        "slug": "sauron-sauroff",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/sauron-sauroff.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/f/-/bustedtees.6c693b8f-7f73-45d1-9ed1-bfef2fb9.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/erebor-stout.gif",
+        "filename": "erebor-stout.gif",
+        "title": "Erebor Stout",
+        "slug": "erebor-stout",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/erebor-stout.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/d/-/bustedtees.cb5872fd-0412-45f7-a2e2-9d72880f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/powerline.gif",
+        "filename": "powerline.gif",
+        "title": "Powerline",
+        "slug": "powerline",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/powerline.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/e/-/bustedtees.ab524e5e-3789-42c1-8eaa-d8fa2ecd.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/super-scotchy-bros.gif",
+        "filename": "super-scotchy-bros.gif",
+        "title": "Super Scotchy Bros",
+        "slug": "super-scotchy-bros",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/super-scotchy-bros.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/5/-/bustedtees.54581dd5-4c87-4b1d-bd43-9be71801.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/song-of-storms.gif",
+        "filename": "song-of-storms.gif",
+        "title": "Song of Storms",
+        "slug": "song-of-storms",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/song-of-storms.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/2/-/bustedtees.6d3b0202-e9a4-4159-a3c7-a3196ccd.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/zissou-of-fish.gif",
+        "filename": "zissou-of-fish.gif",
+        "title": "Zissou of Fish",
+        "slug": "zissou-of-fish",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/zissou-of-fish.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/3/-/bustedtees.7a1b3f73-1a7c-429e-972d-9dc336af.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/legosaurus.gif",
+        "filename": "legosaurus.gif",
+        "title": "Legosaurus",
+        "slug": "legosaurus",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/legosaurus.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/a/-/bustedtees.28d0164a-f468-4b7a-833d-ba648424.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/dam.gif",
+        "filename": "dam.gif",
+        "title": "Dam",
+        "slug": "dam",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/dam.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/5/-/bustedtees.499bbdc5-24f2-4156-9528-3bbfd91c.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/bag-end-brew.gif",
+        "filename": "bag-end-brew.gif",
+        "title": "Bag End Brew",
+        "slug": "bag-end-brew",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/bag-end-brew.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/0/-/bustedtees.977c5630-8926-4088-b653-3772b08a.jpg",
+        "filePath": "/img/uploads/busted-tees/thumbnails/callahan-auto-parts.jpg",
+        "filename": "callahan-auto-parts.jpg",
+        "title": "Callahan Auto Parts",
+        "slug": "callahan-auto-parts",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/callahan-auto-parts.jpg"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/c/-/bustedtees.9cd2a1ac-1f71-43fd-997a-11bcde20.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/science-bless-america.gif",
+        "filename": "science-bless-america.gif",
+        "title": "Science Bless America",
+        "slug": "science-bless-america",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/science-bless-america.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/2/-/bustedtees.f69dc342-da85-482a-9423-aac872c9.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/im-a-keeper.gif",
+        "filename": "im-a-keeper.gif",
+        "title": "I'm A Keeper",
+        "slug": "im-a-keeper",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/im-a-keeper.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/3/-/bustedtees.c6426b53-ec22-42fa-a998-98ab41f8.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/there-are-no-strings-on-me.gif",
+        "filename": "there-are-no-strings-on-me.gif",
+        "title": "There Are No Strings on Me",
+        "slug": "there-are-no-strings-on-me",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/there-are-no-strings-on-me.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/7/-/bustedtees.11a3ab47-464c-4b99-9ff8-654c8d7d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/obey-the-ultron.gif",
+        "filename": "obey-the-ultron.gif",
+        "title": "Obey the Ultron!",
+        "slug": "obey-the-ultron",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/obey-the-ultron.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/2/-/bustedtees.f7d76dc2-b1e4-4381-b50a-767253ac.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/jurassic-park.gif",
+        "filename": "jurassic-park.gif",
+        "title": "Jurassic Park",
+        "slug": "jurassic-park",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/jurassic-park.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/d/-/bustedtees.334b152d-26b9-452a-8259-635be22f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/echo-base-search-rescue.gif",
+        "filename": "echo-base-search-rescue.gif",
+        "title": "Echo Base Search & Rescue",
+        "slug": "echo-base-search-rescue",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/echo-base-search-rescue.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/6/-/bustedtees.f2e75316-dfc9-47bb-9fa8-7a482d0e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/ewok-psa.gif",
+        "filename": "ewok-psa.gif",
+        "title": "Ewok PSA",
+        "slug": "ewok-psa",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/ewok-psa.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/6/9/bustedtees.a31b57767f2490e6a184577913a6b357.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/illuminati-bbq.gif",
+        "filename": "illuminati-bbq.gif",
+        "title": "Illuminati BBQ",
+        "slug": "illuminati-bbq",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/illuminati-bbq.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/e/-/bustedtees.91d4b11e-bbd9-4090-be9c-23d8d6e7.jpg",
+        "filePath": "/img/uploads/busted-tees/thumbnails/id-hit-that.jpg",
+        "filename": "id-hit-that.jpg",
+        "title": "I'd Hit That",
+        "slug": "id-hit-that",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/id-hit-that.jpg"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/a/-/bustedtees.3f88710a-42ed-4a94-a05b-b6a99e96.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/central-city-running-club.gif",
+        "filename": "central-city-running-club.gif",
+        "title": "Central City Running Club",
+        "slug": "central-city-running-club",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/central-city-running-club.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/3/-/bustedtees.1e567703-4ea1-48ac-b3b9-e27ce7cf.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/catalina-wine-mixer.gif",
+        "filename": "catalina-wine-mixer.gif",
+        "title": "Catalina Wine Mixer",
+        "slug": "catalina-wine-mixer",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/catalina-wine-mixer.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/3/-/bustedtees.81a86c43-ecc6-4a3b-8d4d-89c53a48.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/los-pollos-hermanos.gif",
+        "filename": "los-pollos-hermanos.gif",
+        "title": "Los Pollos Hermanos",
+        "slug": "los-pollos-hermanos",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/los-pollos-hermanos.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/0/-/bustedtees.387927c0-40fc-411f-b3b7-a352bc0c.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/carbonite-jones.gif",
+        "filename": "carbonite-jones.gif",
+        "title": "Carbonite Jones",
+        "slug": "carbonite-jones",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/carbonite-jones.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/8/-/bustedtees.55b68a38-f66b-46a2-8382-73605f07.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/jesse-and-the-rippers.gif",
+        "filename": "jesse-and-the-rippers.gif",
+        "title": "Jesse and the Rippers",
+        "slug": "jesse-and-the-rippers",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/jesse-and-the-rippers.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/1/-/bustedtees.fc3acfa1-6fe5-443c-b76a-96cb6c22.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/house-solo.gif",
+        "filename": "house-solo.gif",
+        "title": "House Solo",
+        "slug": "house-solo",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/house-solo.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/0/-/bustedtees.ae39aa80-991d-4c2a-93d2-8ca94372.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/why-so-cereals.gif",
+        "filename": "why-so-cereals.gif",
+        "title": "Why So Cereal's",
+        "slug": "why-so-cereals",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/why-so-cereals.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/e/-/bustedtees.18cfa09e-ddd2-4f2e-b848-41043bb5.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/dont-settle-for-less.gif",
+        "filename": "dont-settle-for-less.gif",
+        "title": "Don't Settle For Less",
+        "slug": "dont-settle-for-less",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/dont-settle-for-less.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/f/-/bustedtees.d676f46f-afd0-4658-a754-86a97e9d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/science.gif",
+        "filename": "science.gif",
+        "title": "Science",
+        "slug": "science",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/science.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/a/-/bustedtees.2c0e783a-c0cc-47a5-9786-72b54195.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/viva-la-evolucion.gif",
+        "filename": "viva-la-evolucion.gif",
+        "title": "Viva La Evolucion",
+        "slug": "viva-la-evolucion",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/viva-la-evolucion.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/a/-/bustedtees.5694217a-1633-4dce-83ac-8018d564.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/endor-family-camping.gif",
+        "filename": "endor-family-camping.gif",
+        "title": "Endor Family Camping",
+        "slug": "endor-family-camping",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/endor-family-camping.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/d/-/bustedtees.2b70463d-84b3-4ad0-ad73-048a946b.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/duck-hunter.gif",
+        "filename": "duck-hunter.gif",
+        "title": "Duck Hunter",
+        "slug": "duck-hunter",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/duck-hunter.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/a/-/bustedtees.b5e2694a-4d5d-4f81-ae21-044e1a7b.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/the-vet.gif",
+        "filename": "the-vet.gif",
+        "title": "The Vet",
+        "slug": "the-vet",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/the-vet.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/5/-/bustedtees.5a7eac65-a256-4205-a221-6dafdd6a.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/funny-or-die-fight-club.gif",
+        "filename": "funny-or-die-fight-club.gif",
+        "title": "Funny or Die: Fight Club",
+        "slug": "funny-or-die-fight-club",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/funny-or-die-fight-club.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/1/-/bustedtees.b27909e1-3c9c-4d1e-ad51-18d9b929.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/blow-me.gif",
+        "filename": "blow-me.gif",
+        "title": "Blow Me",
+        "slug": "blow-me",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/blow-me.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/0/-/bustedtees.88a043d0-0182-4b10-a679-576851f0.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/batsuits.gif",
+        "filename": "batsuits.gif",
+        "title": "Batsuits",
+        "slug": "batsuits",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/batsuits.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/1/-/bustedtees.790b29f1-e194-482f-b63a-4f0626fa.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/poehler-fey-2016.gif",
+        "filename": "poehler-fey-2016.gif",
+        "title": "Poehler Fey 2016",
+        "slug": "poehler-fey-2016",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/poehler-fey-2016.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/a/-/bustedtees.e6a166ba-85b0-4e57-9dcc-c9b02227.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/t4rd1s.gif",
+        "filename": "t4rd1s.gif",
+        "title": "T4RD1S",
+        "slug": "t4rd1s",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/t4rd1s.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/2/-/bustedtees.fd919fd2-8271-4036-9ba1-3e3d4b80.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/charmander-anatomy.gif",
+        "filename": "charmander-anatomy.gif",
+        "title": "Charmander Anatomy",
+        "slug": "charmander-anatomy",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/charmander-anatomy.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/1/-/bustedtees.aea1fb71-17c8-42f9-85cd-5b3ad04d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/doctor-fighter.gif",
+        "filename": "doctor-fighter.gif",
+        "title": "Doctor Fighter",
+        "slug": "doctor-fighter",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/doctor-fighter.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/0/-/bustedtees.c2964660-efac-4df0-b46b-89ff409d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/spaceship.gif",
+        "filename": "spaceship.gif",
+        "title": "Spaceship!",
+        "slug": "spaceship",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/spaceship.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/e/-/bustedtees.f2f2dd9e-5b44-445b-8d78-d3af8205.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/dagobah.gif",
+        "filename": "dagobah.gif",
+        "title": "Dagobah",
+        "slug": "dagobah",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/dagobah.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/2/-/bustedtees.8c0123e2-1b36-4c1b-8478-c44e9e74.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/dixons-motorcycle-bike-repair.gif",
+        "filename": "dixons-motorcycle-bike-repair.gif",
+        "title": "Dixon's Motorcycle & Bike Repair",
+        "slug": "dixons-motorcycle-bike-repair",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/dixons-motorcycle-bike-repair.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/7/-/bustedtees.200c7c27-85a3-4da2-99eb-30c838ce.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/spirited.gif",
+        "filename": "spirited.gif",
+        "title": "Spirited",
+        "slug": "spirited",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/spirited.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/b/-/bustedtees.7a0ec02b-5479-492f-b12b-56d1e4f8.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/daft-droid.gif",
+        "filename": "daft-droid.gif",
+        "title": "Daft Droid",
+        "slug": "daft-droid",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/daft-droid.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/a/-/bustedtees.3bdf249a-ceea-417f-9b8e-d5892546.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/all-about-that-base.gif",
+        "filename": "all-about-that-base.gif",
+        "title": "All About That Base",
+        "slug": "all-about-that-base",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/all-about-that-base.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/d/-/bustedtees.64448a6d-4010-4344-9b4d-2bc9dc60.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/grown-adult-person.gif",
+        "filename": "grown-adult-person.gif",
+        "title": "Grown Adult Person",
+        "slug": "grown-adult-person",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/grown-adult-person.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/b/-/bustedtees.1da6acfb-c747-4ee7-9171-0362cf6f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/scorpion.gif",
+        "filename": "scorpion.gif",
+        "title": "Scorpion",
+        "slug": "scorpion",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/scorpion.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/3/-/bustedtees.3cd8b8a3-663e-46c9-ace1-e4cc681c.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/beyonce-is-my-spirit-animal.gif",
+        "filename": "beyonce-is-my-spirit-animal.gif",
+        "title": "Beyonce Is My Spirit Animal",
+        "slug": "beyonce-is-my-spirit-animal",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/beyonce-is-my-spirit-animal.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/7/-/bustedtees.3b62a797-7f51-4da2-860d-85b0659f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/sub-zero.gif",
+        "filename": "sub-zero.gif",
+        "title": "Sub Zero",
+        "slug": "sub-zero",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/sub-zero.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/5/-/bustedtees.5bc54a25-ef8f-458b-8aa4-93f72097.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/drakey-kong.gif",
+        "filename": "drakey-kong.gif",
+        "title": "Drakey Kong",
+        "slug": "drakey-kong",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/drakey-kong.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/4/-/bustedtees.9d203bd4-ddb4-4622-934e-de0c5dd8.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/sad-rhino.gif",
+        "filename": "sad-rhino.gif",
+        "title": "Sad Rhino",
+        "slug": "sad-rhino",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/sad-rhino.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/0/-/bustedtees.22fba060-500d-4dd0-8eb8-6ccfde29.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/everything-is-gotham.gif",
+        "filename": "everything-is-gotham.gif",
+        "title": "Everything is Gotham",
+        "slug": "everything-is-gotham",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/everything-is-gotham.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/a/-/bustedtees.f92fc95a-2c25-46ff-80bf-8d026b6b.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/zelda-is-the-girl.gif",
+        "filename": "zelda-is-the-girl.gif",
+        "title": "Zelda is the Girl",
+        "slug": "zelda-is-the-girl",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/zelda-is-the-girl.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/c/-/bustedtees.5af2adbc-4f99-43e3-9c77-1ba7d13c.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/donnie-darko.gif",
+        "filename": "donnie-darko.gif",
+        "title": "Donnie Darko",
+        "slug": "donnie-darko",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/donnie-darko.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/9/-/bustedtees.a8f0d929-982e-40f5-a725-b26b6452.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/never-forget.gif",
+        "filename": "never-forget.gif",
+        "title": "Never Forget",
+        "slug": "never-forget",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/never-forget.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/1/-/bustedtees.b4b564b1-67d4-4463-825d-1d784a9a.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/look-at-all-the-foxs.gif",
+        "filename": "look-at-all-the-foxs.gif",
+        "title": "Look at all the Foxs",
+        "slug": "look-at-all-the-foxs",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/look-at-all-the-foxs.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/b/-/bustedtees.68df974b-75b4-42eb-b093-9227d33e.jpg",
+        "filePath": "/img/uploads/busted-tees/thumbnails/dysentery.jpg",
+        "filename": "dysentery.jpg",
+        "title": "Dysentery",
+        "slug": "dysentery",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/dysentery.jpg"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/e/-/bustedtees.d7f1a72e-842f-458d-9758-74d7be2e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/master-swords.gif",
+        "filename": "master-swords.gif",
+        "title": "Master Swords",
+        "slug": "master-swords",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/master-swords.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/2/-/bustedtees.6e9f4002-901c-4976-ad56-6a4543ae.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/redundancy.gif",
+        "filename": "redundancy.gif",
+        "title": "Redundancy",
+        "slug": "redundancy",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/redundancy.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/b/3/bustedtees.6001a49b394139af8ab33653b05ecbca.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/sick-sad-world.gif",
+        "filename": "sick-sad-world.gif",
+        "title": "Sick Sad World",
+        "slug": "sick-sad-world",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/sick-sad-world.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/7/-/bustedtees.ecafc727-6090-4c3f-bc21-aee3f53f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/super-death-star.gif",
+        "filename": "super-death-star.gif",
+        "title": "Super Death Star",
+        "slug": "super-death-star",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/super-death-star.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/8/-/bustedtees.9536f678-fef1-491e-b381-72a7922c.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/narwhals.gif",
+        "filename": "narwhals.gif",
+        "title": "Narwhals",
+        "slug": "narwhals",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/narwhals.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/a/-/bustedtees.1da981ea-1d45-40ef-9ed6-74a4c931.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/godzilla-vs-stay-puft.gif",
+        "filename": "godzilla-vs-stay-puft.gif",
+        "title": "Godzilla vs. Stay Puft",
+        "slug": "godzilla-vs-stay-puft",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/godzilla-vs-stay-puft.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/2/-/bustedtees.393fcea2-c87c-43c2-9244-46ee662a.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/blood-and-ice-cream.gif",
+        "filename": "blood-and-ice-cream.gif",
+        "title": "Blood and Ice Cream",
+        "slug": "blood-and-ice-cream",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/blood-and-ice-cream.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/0/-/bustedtees.47873d20-a1d5-4835-afcf-48d5f2b9.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/sweetness.gif",
+        "filename": "sweetness.gif",
+        "title": "Sweetness",
+        "slug": "sweetness",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/sweetness.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/b/-/bustedtees.3b85ff4b-664f-40a7-9a05-dbce01ce.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/were-hiring.gif",
+        "filename": "were-hiring.gif",
+        "title": "We're Hiring",
+        "slug": "were-hiring",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/were-hiring.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/0/-/bustedtees.9d4f7f50-5ea1-4be6-8f65-cda74452.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/fett-life.gif",
+        "filename": "fett-life.gif",
+        "title": "Fett Life",
+        "slug": "fett-life",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/fett-life.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/a/-/bustedtees.a26892aa-d6ac-4373-ae86-a7afafc0.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/finders-keepers.gif",
+        "filename": "finders-keepers.gif",
+        "title": "Finders Keepers",
+        "slug": "finders-keepers",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/finders-keepers.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/8/-/bustedtees.445fa648-a4d5-4b1a-ac4a-0c32e56f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/quinn-of-hearts.gif",
+        "filename": "quinn-of-hearts.gif",
+        "title": "Quinn of Hearts",
+        "slug": "quinn-of-hearts",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/quinn-of-hearts.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/0/-/bustedtees.c08eb4a0-cf80-4c84-947b-aa962145.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/raiders-of-the-galactic-empire.gif",
+        "filename": "raiders-of-the-galactic-empire.gif",
+        "title": "Raiders of the Galactic Empire",
+        "slug": "raiders-of-the-galactic-empire",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/raiders-of-the-galactic-empire.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/6/-/bustedtees.4ec04dd6-5051-496b-a28e-703fadcf.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/classic-cars.gif",
+        "filename": "classic-cars.gif",
+        "title": "Classic Cars",
+        "slug": "classic-cars",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/classic-cars.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/7/-/bustedtees.026c1f97-ae32-47bb-b453-2aaa25f9.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/kingslayer.gif",
+        "filename": "kingslayer.gif",
+        "title": "Kingslayer",
+        "slug": "kingslayer",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/kingslayer.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/6/-/bustedtees.890761b6-47ac-4d77-8def-50639db2.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/philly-forecast.gif",
+        "filename": "philly-forecast.gif",
+        "title": "Philly Forecast",
+        "slug": "philly-forecast",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/philly-forecast.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/0/-/bustedtees.bd3bc040-29f0-4a50-935c-8a9620cd.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/walkers-dead.gif",
+        "filename": "walkers-dead.gif",
+        "title": "Walkers Dead",
+        "slug": "walkers-dead",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/walkers-dead.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/a/-/bustedtees.33c1624a-36e4-418e-939b-fe2150a8.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/you-shall-not-pass-go.gif",
+        "filename": "you-shall-not-pass-go.gif",
+        "title": "You Shall Not Pass Go",
+        "slug": "you-shall-not-pass-go",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/you-shall-not-pass-go.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/a/-/bustedtees.d088e5da-1a9c-4b91-b0d4-bf54e903.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/go-ape-hans-guitar-solo.gif",
+        "filename": "go-ape-hans-guitar-solo.gif",
+        "title": "Go Ape: Hans Guitar Solo",
+        "slug": "go-ape-hans-guitar-solo",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/go-ape-hans-guitar-solo.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/3/-/bustedtees.24fc04e3-b9b2-4cdd-935f-ac1e4698.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/earthworm-gym.gif",
+        "filename": "earthworm-gym.gif",
+        "title": "Earthworm Gym",
+        "slug": "earthworm-gym",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/earthworm-gym.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/3/-/bustedtees.13e3abf3-918b-4b14-b5e1-1011bcda.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/the-beets.gif",
+        "filename": "the-beets.gif",
+        "title": "The Beets",
+        "slug": "the-beets",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/the-beets.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/9/-/bustedtees.097e3379-fb16-4ebe-91e5-7916da3c.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/zangiefs-gym.gif",
+        "filename": "zangiefs-gym.gif",
+        "title": "Zangiefs Gym",
+        "slug": "zangiefs-gym",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/zangiefs-gym.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/b/-/bustedtees.e27ecb8b-ee79-4a07-bff0-bcc6334b.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/les-wizardables.gif",
+        "filename": "les-wizardables.gif",
+        "title": "Les Wizardables",
+        "slug": "les-wizardables",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/les-wizardables.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/6/-/bustedtees.1049ae26-6cda-4c35-a914-9bcd9eda.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/all-play-and-no-work.gif",
+        "filename": "all-play-and-no-work.gif",
+        "title": "All Play and No Work",
+        "slug": "all-play-and-no-work",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/all-play-and-no-work.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/3/-/bustedtees.ebf88103-469b-4f99-85e6-a02c5ad0.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/slappa-da-bass.gif",
+        "filename": "slappa-da-bass.gif",
+        "title": "Slappa Da Bass",
+        "slug": "slappa-da-bass",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/slappa-da-bass.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/7/-/bustedtees.d05ccaf7-e231-4690-98e4-810a297b.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/second-is-the-best.gif",
+        "filename": "second-is-the-best.gif",
+        "title": "Second Is the Best",
+        "slug": "second-is-the-best",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/second-is-the-best.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/a/-/bustedtees.8498350a-331c-4286-8c43-94b162f1.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/kill-bill.gif",
+        "filename": "kill-bill.gif",
+        "title": "Kill Bill",
+        "slug": "kill-bill",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/kill-bill.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/9/-/bustedtees.dfb36bc9-87ee-4a4d-a65c-2f47e571.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/rirruto.gif",
+        "filename": "rirruto.gif",
+        "title": "Rirruto",
+        "slug": "rirruto",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/rirruto.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/3/-/bustedtees.cca6ffb3-4d83-41ad-97e1-2c24046e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/boo-vs-angel.gif",
+        "filename": "boo-vs-angel.gif",
+        "title": "Boo vs. Angel",
+        "slug": "boo-vs-angel",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/boo-vs-angel.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/7/-/bustedtees.42194a17-b4fe-40d3-a9d8-2c2a9782.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/delorean-dashboard.gif",
+        "filename": "delorean-dashboard.gif",
+        "title": "Delorean Dashboard",
+        "slug": "delorean-dashboard",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/delorean-dashboard.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/c/-/bustedtees.3bfc849c-818d-4492-a755-4bd525f7.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/kaiju-wave.gif",
+        "filename": "kaiju-wave.gif",
+        "title": "Kaiju Wave",
+        "slug": "kaiju-wave",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/kaiju-wave.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/0/-/bustedtees.3eb7f550-24f8-4d79-8643-d8c21931.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/poked-to-death.gif",
+        "filename": "poked-to-death.gif",
+        "title": "Poked to Death",
+        "slug": "poked-to-death",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/poked-to-death.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/a/-/bustedtees.eb87d52a-8819-4a2b-8341-a22c75ac.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/thats-how-i-roll.gif",
+        "filename": "thats-how-i-roll.gif",
+        "title": "That's How I Roll",
+        "slug": "thats-how-i-roll",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/thats-how-i-roll.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/6/-/bustedtees.a440e986-bfa1-47ea-8a97-f0a199e8.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/the-doctors.gif",
+        "filename": "the-doctors.gif",
+        "title": "The Doctors",
+        "slug": "the-doctors",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/the-doctors.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/f/-/bustedtees.f1a916cf-b171-4f2e-9f8c-fda4c04c.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/deckard-bail-bonds.gif",
+        "filename": "deckard-bail-bonds.gif",
+        "title": "Deckard Bail Bonds",
+        "slug": "deckard-bail-bonds",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/deckard-bail-bonds.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/1/-/bustedtees.e5ea6c41-6ba9-46f9-94ca-1bcb0deb.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/pikachu-anatomy.gif",
+        "filename": "pikachu-anatomy.gif",
+        "title": "Pikachu Anatomy",
+        "slug": "pikachu-anatomy",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/pikachu-anatomy.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/2/-/bustedtees.94d77582-258b-43d5-a757-dc79ad19.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/come-on-mr-bubbles.gif",
+        "filename": "come-on-mr-bubbles.gif",
+        "title": "Come on Mr. Bubbles",
+        "slug": "come-on-mr-bubbles",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/come-on-mr-bubbles.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/3/-/bustedtees.05d3aee3-4a90-4e70-af93-33fea461.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/wwf.gif",
+        "filename": "wwf.gif",
+        "title": "WWF",
+        "slug": "wwf",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/wwf.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/3/-/bustedtees.3f792a93-4c9c-40cb-8808-05c74584.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/black-magic-supply-co-.gif",
+        "filename": "black-magic-supply-co-.gif",
+        "title": "Black Magic Supply Co. ",
+        "slug": "black-magic-supply-co-",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/black-magic-supply-co-.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/5/-/bustedtees.a0321f25-af83-453e-bcb8-7c8e9edf.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/hard-corg.gif",
+        "filename": "hard-corg.gif",
+        "title": "Hard Corg",
+        "slug": "hard-corg",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/hard-corg.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/f/-/bustedtees.77bf731f-8345-4edd-b93b-004722fe.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/power.gif",
+        "filename": "power.gif",
+        "title": "POWER",
+        "slug": "power",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/power.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/f/-/bustedtees.9ae7738f-e657-4a03-be4e-58c3313e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/lv-426.gif",
+        "filename": "lv-426.gif",
+        "title": "LV-426",
+        "slug": "lv-426",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/lv-426.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/b/-/bustedtees.cd82122b-cec9-461e-b14e-bacac34c.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/nightly-rushmore.gif",
+        "filename": "nightly-rushmore.gif",
+        "title": "Nightly Rushmore",
+        "slug": "nightly-rushmore",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/nightly-rushmore.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/7/-/bustedtees.d4b43ab7-cbb5-47b1-ac9e-3f8d232b.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/pop-art-costanza.gif",
+        "filename": "pop-art-costanza.gif",
+        "title": "Pop Art Costanza",
+        "slug": "pop-art-costanza",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/pop-art-costanza.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/d/-/bustedtees.af16172d-dd85-4a0d-a2d0-5db599d7.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/krillin-with-my-homies.gif",
+        "filename": "krillin-with-my-homies.gif",
+        "title": "Krillin With My Homies",
+        "slug": "krillin-with-my-homies",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/krillin-with-my-homies.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/e/-/bustedtees.52c0980e-71d1-4357-8edc-55fd18d5.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/bulbasaur-anatomy.gif",
+        "filename": "bulbasaur-anatomy.gif",
+        "title": "Bulbasaur Anatomy",
+        "slug": "bulbasaur-anatomy",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/bulbasaur-anatomy.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/1/-/bustedtees.b5347831-2546-4d66-a7e1-d0cd8ed7.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/summoners-rift.gif",
+        "filename": "summoners-rift.gif",
+        "title": "Summoners Rift",
+        "slug": "summoners-rift",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/summoners-rift.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/e/-/bustedtees.3b35f18e-9707-4626-a8b1-e61956c5.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/casual-friday.gif",
+        "filename": "casual-friday.gif",
+        "title": "Casual Friday",
+        "slug": "casual-friday",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/casual-friday.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/8/-/bustedtees.34c91cd8-a21f-4a0a-9b85-d1d9a2c0.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/moon-encounter.gif",
+        "filename": "moon-encounter.gif",
+        "title": "Moon Encounter",
+        "slug": "moon-encounter",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/moon-encounter.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/b/-/bustedtees.f7c6a40b-8c8a-4655-9d4e-b26e1c20.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/pulp-cowboy.gif",
+        "filename": "pulp-cowboy.gif",
+        "title": "Pulp Cowboy",
+        "slug": "pulp-cowboy",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/pulp-cowboy.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/4/-/bustedtees.17922334-003d-4c2e-9ee3-c002123c.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/1-shell-2-shell.gif",
+        "filename": "1-shell-2-shell.gif",
+        "title": "1 Shell 2 Shell",
+        "slug": "1-shell-2-shell",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/1-shell-2-shell.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/3/-/bustedtees.8c4117c3-9852-4c8e-b09f-b18e0ae5.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/fury-of-the-night.gif",
+        "filename": "fury-of-the-night.gif",
+        "title": "Fury of the Night",
+        "slug": "fury-of-the-night",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/fury-of-the-night.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/1/-/bustedtees.013beac1-dd50-4dad-a7ef-9d3ae63a.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/freddy-fazbears-pizza.gif",
+        "filename": "freddy-fazbears-pizza.gif",
+        "title": "Freddy Fazbear's Pizza",
+        "slug": "freddy-fazbears-pizza",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/freddy-fazbears-pizza.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/9/-/bustedtees.4f139679-f55b-40af-87e4-f4181dc4.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/banksy-kong.gif",
+        "filename": "banksy-kong.gif",
+        "title": "Banksy Kong",
+        "slug": "banksy-kong",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/banksy-kong.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/7/-/bustedtees.4534ab17-e843-48fa-98ff-2bdb48b2.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/dragon-balls.gif",
+        "filename": "dragon-balls.gif",
+        "title": "Dragon Balls",
+        "slug": "dragon-balls",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/dragon-balls.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/1/-/bustedtees.0f6985f1-e12e-47ff-934e-df5a3960.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/ghost-catcher.gif",
+        "filename": "ghost-catcher.gif",
+        "title": "Ghost Catcher",
+        "slug": "ghost-catcher",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/ghost-catcher.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/0/-/bustedtees.38f9c620-3586-473f-ace5-198c6028.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/i-cant-even.gif",
+        "filename": "i-cant-even.gif",
+        "title": "I Can't Even",
+        "slug": "i-cant-even",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/i-cant-even.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/2/-/bustedtees.12a4e742-06e3-4786-aa3e-029e0b31.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/5th-element-tour.gif",
+        "filename": "5th-element-tour.gif",
+        "title": "5th Element Tour",
+        "slug": "5th-element-tour",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/5th-element-tour.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/b/-/bustedtees.a4ff835b-3d0d-4e23-8b13-74ec5381.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/supernatural-fiction.gif",
+        "filename": "supernatural-fiction.gif",
+        "title": "Supernatural Fiction",
+        "slug": "supernatural-fiction",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/supernatural-fiction.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/d/-/bustedtees.1f57f34d-32e5-4e05-8958-80b2c772.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/reunite-pangea.gif",
+        "filename": "reunite-pangea.gif",
+        "title": "Reunite Pangea",
+        "slug": "reunite-pangea",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/reunite-pangea.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/a/-/bustedtees.758a033a-d104-4448-88e0-26407828.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/wayne.gif",
+        "filename": "wayne.gif",
+        "title": "Wayne",
+        "slug": "wayne",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/wayne.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/e/-/bustedtees.81be81be-457f-4de6-8e9c-865a4f13.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/underwood-2016.gif",
+        "filename": "underwood-2016.gif",
+        "title": "Underwood 2016",
+        "slug": "underwood-2016",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/underwood-2016.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/e/-/bustedtees.5befb95e-b67f-4a03-9de9-3b9cf7e3.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/we-are-a-sex-bob-omb.gif",
+        "filename": "we-are-a-sex-bob-omb.gif",
+        "title": "We Are A Sex Bob-Omb",
+        "slug": "we-are-a-sex-bob-omb",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/we-are-a-sex-bob-omb.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/c/-/bustedtees.1cfb9dac-1b48-4c1b-a96c-40a56105.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/better-call-saul.gif",
+        "filename": "better-call-saul.gif",
+        "title": "Better Call Saul",
+        "slug": "better-call-saul",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/better-call-saul.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/d/-/bustedtees.553ec6fd-e4b8-45d2-bcaa-ce61aafe.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/turtle-xing.gif",
+        "filename": "turtle-xing.gif",
+        "title": "Turtle XING",
+        "slug": "turtle-xing",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/turtle-xing.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/c/-/bustedtees.051a3a3c-0807-4045-9145-20194689.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/link-182.gif",
+        "filename": "link-182.gif",
+        "title": "Link-182",
+        "slug": "link-182",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/link-182.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/8/-/bustedtees.e19fef08-12a4-4c82-ad0c-718ae43e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/mushroom-kingdom.gif",
+        "filename": "mushroom-kingdom.gif",
+        "title": "Mushroom Kingdom",
+        "slug": "mushroom-kingdom",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/mushroom-kingdom.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/c/-/bustedtees.b94cbe4c-4d8f-404a-b140-2a3b0623.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/armstrongs-gym.gif",
+        "filename": "armstrongs-gym.gif",
+        "title": "Armstrong's Gym",
+        "slug": "armstrongs-gym",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/armstrongs-gym.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/a/-/bustedtees.4748cb3a-36cf-4d9c-ac66-95b6216d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/yoshis-island.gif",
+        "filename": "yoshis-island.gif",
+        "title": "Yoshi's Island",
+        "slug": "yoshis-island",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/yoshis-island.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/8/-/bustedtees.32569138-1736-448a-99c4-39ceea0e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/catdog-playing-card.gif",
+        "filename": "catdog-playing-card.gif",
+        "title": "Catdog Playing Card",
+        "slug": "catdog-playing-card",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/catdog-playing-card.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/7/-/bustedtees.97387af7-4fa4-45bc-98a7-0902d8d1.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/movie-helmets.gif",
+        "filename": "movie-helmets.gif",
+        "title": "Movie Helmets",
+        "slug": "movie-helmets",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/movie-helmets.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/1/-/bustedtees.c2cbcf61-f9b8-469d-8534-f92e92fb.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/captain-murica.gif",
+        "filename": "captain-murica.gif",
+        "title": "Captain Murica",
+        "slug": "captain-murica",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/captain-murica.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/8/-/bustedtees.d2fc4c68-6fd8-4dc2-8aa6-8c592b9d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/a-link-to-the-math.gif",
+        "filename": "a-link-to-the-math.gif",
+        "title": "A Link to the Math",
+        "slug": "a-link-to-the-math",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/a-link-to-the-math.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/5/-/bustedtees.95c2b2b5-7d98-4dbe-8fbf-cac1c561.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/overlook-hotel.gif",
+        "filename": "overlook-hotel.gif",
+        "title": "Overlook Hotel",
+        "slug": "overlook-hotel",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/overlook-hotel.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/c/-/bustedtees.33e3d8cc-9079-4011-b117-065ae4e5.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/cobra-kai.gif",
+        "filename": "cobra-kai.gif",
+        "title": "Cobra Kai",
+        "slug": "cobra-kai",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/cobra-kai.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/5/-/bustedtees.bcceaa35-41bf-43ac-82ea-03158b92.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/secede.gif",
+        "filename": "secede.gif",
+        "title": "Secede",
+        "slug": "secede",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/secede.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/e/-/bustedtees.617f2d7e-421c-4479-9621-2ae71cca.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/katy-perry-shark.gif",
+        "filename": "katy-perry-shark.gif",
+        "title": "Katy Perry Shark",
+        "slug": "katy-perry-shark",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/katy-perry-shark.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/f/-/bustedtees.56d569af-f792-4942-b255-996c079d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/enchantment-under-the-sea.gif",
+        "filename": "enchantment-under-the-sea.gif",
+        "title": "Enchantment Under the Sea",
+        "slug": "enchantment-under-the-sea",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/enchantment-under-the-sea.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/4/-/bustedtees.ea54ebf4-7e6f-4bac-85ab-781b4802.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/none-shall-pass.gif",
+        "filename": "none-shall-pass.gif",
+        "title": "None Shall Pass",
+        "slug": "none-shall-pass",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/none-shall-pass.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/0/-/bustedtees.f453bd10-299a-49e4-999e-06c719ce.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/visit-mordor.gif",
+        "filename": "visit-mordor.gif",
+        "title": "Visit Mordor",
+        "slug": "visit-mordor",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/visit-mordor.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/0/-/bustedtees.5bdd1fe0-14cd-4ddb-b93c-d974ea67.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/geeky-hallows.gif",
+        "filename": "geeky-hallows.gif",
+        "title": "Geeky Hallows",
+        "slug": "geeky-hallows",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/geeky-hallows.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/1/-/bustedtees.8a208881-83c5-4e36-9946-3e3aece9.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/the-leaky-cauldron-bar-and-inn.gif",
+        "filename": "the-leaky-cauldron-bar-and-inn.gif",
+        "title": "The Leaky Cauldron Bar and Inn",
+        "slug": "the-leaky-cauldron-bar-and-inn",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/the-leaky-cauldron-bar-and-inn.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/1/-/bustedtees.c4519971-0c59-442d-811f-226bae8a.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/hp.gif",
+        "filename": "hp.gif",
+        "title": "HP",
+        "slug": "hp",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/hp.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/4/-/bustedtees.88758c34-923f-4ec3-936c-fc7e7591.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/last-chance-for-han.gif",
+        "filename": "last-chance-for-han.gif",
+        "title": "Last Chance For Han",
+        "slug": "last-chance-for-han",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/last-chance-for-han.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/6/-/bustedtees.2bb8ad86-03cd-4df5-9d33-a56f7244.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/texas-forever.gif",
+        "filename": "texas-forever.gif",
+        "title": "Texas Forever",
+        "slug": "texas-forever",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/texas-forever.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/2/-/bustedtees.d78948f2-2b7d-45ac-ac98-c29576b3.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/peekachu.gif",
+        "filename": "peekachu.gif",
+        "title": "Peekachu",
+        "slug": "peekachu",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/peekachu.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/a/-/bustedtees.94d880da-6f21-43aa-a1b0-56ea98ca.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/bubbles-shed-n-breakfast.gif",
+        "filename": "bubbles-shed-n-breakfast.gif",
+        "title": "Bubbles' Shed-N-Breakfast",
+        "slug": "bubbles-shed-n-breakfast",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/bubbles-shed-n-breakfast.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/b/-/bustedtees.bf16b35b-a5e6-4ae6-8c8a-ad589dea.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/college-of-winterhold.gif",
+        "filename": "college-of-winterhold.gif",
+        "title": "College of Winterhold",
+        "slug": "college-of-winterhold",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/college-of-winterhold.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/6/-/bustedtees.d683c826-fd20-4274-b5fd-9c2861af.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/heisenberg.gif",
+        "filename": "heisenberg.gif",
+        "title": "Heisenberg",
+        "slug": "heisenberg",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/heisenberg.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/5/-/bustedtees.b49697c5-605e-44f0-b7a4-1e2d8aba.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/better-call-hutz.gif",
+        "filename": "better-call-hutz.gif",
+        "title": "Better Call Hutz",
+        "slug": "better-call-hutz",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/better-call-hutz.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/5/-/bustedtees.8856e025-6540-495b-bf81-82368c38.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/where-the-halflings-are.gif",
+        "filename": "where-the-halflings-are.gif",
+        "title": "Where the Halflings Are",
+        "slug": "where-the-halflings-are",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/where-the-halflings-are.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/5/-/bustedtees.3a644685-2b2c-48fb-ae48-66c266a4.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/iron-maiden.gif",
+        "filename": "iron-maiden.gif",
+        "title": "Iron Maiden",
+        "slug": "iron-maiden",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/iron-maiden.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/f/-/bustedtees.5f2f86bf-c31d-444f-a246-f86ea8a5.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/millennium-falconry.gif",
+        "filename": "millennium-falconry.gif",
+        "title": "Millennium Falconry",
+        "slug": "millennium-falconry",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/millennium-falconry.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/5/-/bustedtees.1f722ed5-f050-4059-9392-cd622192.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/100-funke.gif",
+        "filename": "100-funke.gif",
+        "title": "100% Funke",
+        "slug": "100-funke",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/100-funke.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/d/-/bustedtees.7c3c170d-cc18-49d1-8734-c585bae3.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/visit-rapture.gif",
+        "filename": "visit-rapture.gif",
+        "title": "Visit Rapture",
+        "slug": "visit-rapture",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/visit-rapture.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/f/-/bustedtees.c14dbfbf-3326-488b-a6fe-3db62b87.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/take-a-nap.gif",
+        "filename": "take-a-nap.gif",
+        "title": "Take A Nap",
+        "slug": "take-a-nap",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/take-a-nap.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/9/-/bustedtees.6627dd99-c7ad-4ffe-9efa-5a2fad8f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/similes.gif",
+        "filename": "similes.gif",
+        "title": "Similes",
+        "slug": "similes",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/similes.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/7/-/bustedtees.c33347a7-6e28-4ec4-8e52-77129b48.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/no-new-friends.gif",
+        "filename": "no-new-friends.gif",
+        "title": "No New Friends",
+        "slug": "no-new-friends",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/no-new-friends.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/0/-/bustedtees.d89c22b0-318a-4380-8d57-e6fc0c8b.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/snl-suck-it-trebek.gif",
+        "filename": "snl-suck-it-trebek.gif",
+        "title": "SNL: Suck It Trebek",
+        "slug": "snl-suck-it-trebek",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/snl-suck-it-trebek.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/8/-/bustedtees.aa1410a8-d069-450a-940c-77f9b6ea.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/sunnyvale-trailer-park.gif",
+        "filename": "sunnyvale-trailer-park.gif",
+        "title": "Sunnyvale Trailer Park",
+        "slug": "sunnyvale-trailer-park",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/sunnyvale-trailer-park.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/8/-/bustedtees.da0103f8-046c-4189-a4ed-a7615140.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/danger-zone.gif",
+        "filename": "danger-zone.gif",
+        "title": "Danger Zone",
+        "slug": "danger-zone",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/danger-zone.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/6/-/bustedtees.f84bbd76-84a9-4286-b0da-1571876e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/shredders-gym.gif",
+        "filename": "shredders-gym.gif",
+        "title": "Shredder's Gym",
+        "slug": "shredders-gym",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/shredders-gym.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/a/-/bustedtees.fa04aeba-072e-47b9-a2e8-ba81e86d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/control-freak.gif",
+        "filename": "control-freak.gif",
+        "title": "Control Freak",
+        "slug": "control-freak",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/control-freak.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/4/-/bustedtees.dc22f814-2025-4691-8e80-e257967c.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/wolf-clan.gif",
+        "filename": "wolf-clan.gif",
+        "title": "Wolf Clan",
+        "slug": "wolf-clan",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/wolf-clan.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/d/-/bustedtees.0986805d-8d84-442f-899a-01c7c68d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/light-innovations.gif",
+        "filename": "light-innovations.gif",
+        "title": "Light Innovations",
+        "slug": "light-innovations",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/light-innovations.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/e/-/bustedtees.8228d87e-87d6-4b16-87d5-70938972.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/t-rekt.gif",
+        "filename": "t-rekt.gif",
+        "title": "T-REKT",
+        "slug": "t-rekt",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/t-rekt.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/d/-/bustedtees.fce6989d-da7c-4f3f-ab9c-cfa535d0.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/on-switch.gif",
+        "filename": "on-switch.gif",
+        "title": "On Switch",
+        "slug": "on-switch",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/on-switch.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/5/-/bustedtees.821fa845-a908-4e03-bfc5-2c385ee8.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/bear-shark.gif",
+        "filename": "bear-shark.gif",
+        "title": "Bear Shark",
+        "slug": "bear-shark",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/bear-shark.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/3/-/bustedtees.feb3dda3-2ef8-4d85-b208-8ba0e4c6.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/the-price-is-wrong-bitch.gif",
+        "filename": "the-price-is-wrong-bitch.gif",
+        "title": "The Price is Wrong Bitch",
+        "slug": "the-price-is-wrong-bitch",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/the-price-is-wrong-bitch.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/b/-/bustedtees.4da0081b-e127-4c54-8ad5-d5b8312b.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/finkle.gif",
+        "filename": "finkle.gif",
+        "title": "Finkle",
+        "slug": "finkle",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/finkle.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/d/-/bustedtees.b9881ffd-bf83-4fbb-8abb-46ec7ba5.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/the-adventure-begins.gif",
+        "filename": "the-adventure-begins.gif",
+        "title": "The Adventure Begins",
+        "slug": "the-adventure-begins",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/the-adventure-begins.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/2/-/bustedtees.0b02d1b2-101f-47e9-8d9d-e39b5bcf.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/timey-wimey.gif",
+        "filename": "timey-wimey.gif",
+        "title": "Timey Wimey",
+        "slug": "timey-wimey",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/timey-wimey.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/b/-/bustedtees.6521665b-b2db-4a37-b4fb-10bdd83d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/master-keyblade.gif",
+        "filename": "master-keyblade.gif",
+        "title": "Master Keyblade",
+        "slug": "master-keyblade",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/master-keyblade.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/f/-/bustedtees.c220569f-a7f3-45ab-81e4-70a2bee8.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/praise-the-sun.gif",
+        "filename": "praise-the-sun.gif",
+        "title": "Praise The Sun",
+        "slug": "praise-the-sun",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/praise-the-sun.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/e/-/bustedtees.ac23f4ce-10b5-4ad1-b648-fbe5e261.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/push-it.gif",
+        "filename": "push-it.gif",
+        "title": "Push It",
+        "slug": "push-it",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/push-it.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/4/-/bustedtees.1c43a5d4-0969-44b5-b8e8-1a292031.jpg",
+        "filePath": "/img/uploads/busted-tees/thumbnails/its-just-aweso.jpg",
+        "filename": "its-just-aweso.jpg",
+        "title": "It's Just Aweso",
+        "slug": "its-just-aweso",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/its-just-aweso.jpg"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/a/-/bustedtees.3949eefa-89f0-4fe1-b978-a88579a2.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/max-rebo-band.gif",
+        "filename": "max-rebo-band.gif",
+        "title": "Max Rebo Band",
+        "slug": "max-rebo-band",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/max-rebo-band.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/9/-/bustedtees.84cd8c39-0c26-458f-91db-6dbb3672.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/squirtle-anatomy.gif",
+        "filename": "squirtle-anatomy.gif",
+        "title": "Squirtle Anatomy",
+        "slug": "squirtle-anatomy",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/squirtle-anatomy.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/0/-/bustedtees.57633d00-3f26-4d9d-8a81-ed274318.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/burtons-imaginary-friends.gif",
+        "filename": "burtons-imaginary-friends.gif",
+        "title": "Burton's Imaginary Friends",
+        "slug": "burtons-imaginary-friends",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/burtons-imaginary-friends.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/e/-/bustedtees.7a24128e-dba9-4cac-94eb-7171d802.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/snl-more-cowbell.gif",
+        "filename": "snl-more-cowbell.gif",
+        "title": "SNL: More Cowbell",
+        "slug": "snl-more-cowbell",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/snl-more-cowbell.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/b/-/bustedtees.e2250fcb-e070-4f35-8f14-f3d727fe.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/wizards-kill-wizards.gif",
+        "filename": "wizards-kill-wizards.gif",
+        "title": "Wizards Kill Wizards",
+        "slug": "wizards-kill-wizards",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/wizards-kill-wizards.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/4/-/bustedtees.15662414-26cd-48d5-a18e-da8d6f18.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/paddys-community-college.gif",
+        "filename": "paddys-community-college.gif",
+        "title": "Paddy's Community College",
+        "slug": "paddys-community-college",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/paddys-community-college.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/7/-/bustedtees.69344047-3a8a-48bf-8ffa-db76fc86.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/whos-this.gif",
+        "filename": "whos-this.gif",
+        "title": "Who's This",
+        "slug": "whos-this",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/whos-this.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/a/-/bustedtees.3cd7e80a-b099-40d5-872c-3ecc810e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/alternative-medicine.gif",
+        "filename": "alternative-medicine.gif",
+        "title": "Alternative Medicine",
+        "slug": "alternative-medicine",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/alternative-medicine.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/0/-/bustedtees.ea20fed0-c66b-4f4d-86f9-7bf4c8f0.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/best-in-the-verse.gif",
+        "filename": "best-in-the-verse.gif",
+        "title": "Best in the Verse",
+        "slug": "best-in-the-verse",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/best-in-the-verse.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/4/-/bustedtees.37385704-4895-4657-9e1c-605421da.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/bet.gif",
+        "filename": "bet.gif",
+        "title": "B.E.T",
+        "slug": "bet",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/bet.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/8/-/bustedtees.df02d3f8-9ecb-43cf-8bd4-f20a21ac.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/the-hunter.gif",
+        "filename": "the-hunter.gif",
+        "title": "The Hunter",
+        "slug": "the-hunter",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/the-hunter.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/9/-/bustedtees.61a378c9-7d1a-4cfe-a95d-9e817bc5.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/three-broomsticks.gif",
+        "filename": "three-broomsticks.gif",
+        "title": "Three Broomsticks",
+        "slug": "three-broomsticks",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/three-broomsticks.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/7/-/bustedtees.4f307427-70fc-4d61-80e2-02b01748.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/society-of-crossed-keys.gif",
+        "filename": "society-of-crossed-keys.gif",
+        "title": "Society of Crossed Keys",
+        "slug": "society-of-crossed-keys",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/society-of-crossed-keys.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/6/-/bustedtees.7ff19136-7096-48ed-805e-b43a5c09.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/blue-doom.gif",
+        "filename": "blue-doom.gif",
+        "title": "Blue Doom",
+        "slug": "blue-doom",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/blue-doom.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/8/-/bustedtees.ece22a28-fb09-4234-a305-04a4e0ce.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/smash.gif",
+        "filename": "smash.gif",
+        "title": "Smash",
+        "slug": "smash",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/smash.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/1/-/bustedtees.1e182851-d321-47f9-bb0b-28e9013b.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/maxbury.gif",
+        "filename": "maxbury.gif",
+        "title": "Maxbury",
+        "slug": "maxbury",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/maxbury.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/2/-/bustedtees.d0d1d462-6d7c-4009-b86e-46df43e6.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/nerd.gif",
+        "filename": "nerd.gif",
+        "title": "Nerd",
+        "slug": "nerd",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/nerd.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/9/-/bustedtees.2cf20c59-3919-4bf5-a719-60e13f92.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/mordor-dark-ale.gif",
+        "filename": "mordor-dark-ale.gif",
+        "title": "Mordor Dark Ale",
+        "slug": "mordor-dark-ale",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/mordor-dark-ale.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/7/-/bustedtees.f86fa0c7-0ebe-4846-b467-8e3a2ae0.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/kumite-tournament.gif",
+        "filename": "kumite-tournament.gif",
+        "title": "Kumite Tournament",
+        "slug": "kumite-tournament",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/kumite-tournament.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/5/-/bustedtees.d3f519d5-b528-41e1-9fc9-95885ced.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/hard-dalek-cold-dalek.gif",
+        "filename": "hard-dalek-cold-dalek.gif",
+        "title": "Hard Dalek, Cold Dalek",
+        "slug": "hard-dalek-cold-dalek",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/hard-dalek-cold-dalek.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/9/-/bustedtees.5321b529-43e3-47f2-939c-6b9725dd.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/huma.gif",
+        "filename": "huma.gif",
+        "title": "HUMA",
+        "slug": "huma",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/huma.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/f/-/bustedtees.44199e3f-6562-42b2-b012-7b3353ff.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/dino-dna.gif",
+        "filename": "dino-dna.gif",
+        "title": "Dino DNA",
+        "slug": "dino-dna",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/dino-dna.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/7/-/bustedtees.0e808807-844b-4002-ab1f-0f6de618.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/house-sith.gif",
+        "filename": "house-sith.gif",
+        "title": "House Sith",
+        "slug": "house-sith",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/house-sith.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/9/-/bustedtees.2242ade9-b1e4-4759-b3f9-66a555db.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/imperial-academy-tie-fighter.gif",
+        "filename": "imperial-academy-tie-fighter.gif",
+        "title": "Imperial Academy Tie Fighter",
+        "slug": "imperial-academy-tie-fighter",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/imperial-academy-tie-fighter.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/8/-/bustedtees.2c0a3938-f499-4226-9e93-fa2fd0d7.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/soccer.gif",
+        "filename": "soccer.gif",
+        "title": "Soccer",
+        "slug": "soccer",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/soccer.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/a/-/bustedtees.83ac74fa-696a-4152-931d-648bf479.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/i-bill-murray-bill-murray.gif",
+        "filename": "i-bill-murray-bill-murray.gif",
+        "title": "I Bill Murray Bill Murray",
+        "slug": "i-bill-murray-bill-murray",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/i-bill-murray-bill-murray.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/2/-/bustedtees.5b47c0f2-d398-4c3d-a5fd-a62809ca.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/weeping-angels-biker-club.gif",
+        "filename": "weeping-angels-biker-club.gif",
+        "title": "Weeping Angels Biker Club",
+        "slug": "weeping-angels-biker-club",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/weeping-angels-biker-club.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/6/-/bustedtees.95dcaf96-9b2e-449c-aba2-f07e5e73.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/kawaiiju.gif",
+        "filename": "kawaiiju.gif",
+        "title": "Kawaiiju",
+        "slug": "kawaiiju",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/kawaiiju.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/d/-/bustedtees.147df84d-7c72-40f1-8599-0bdfbe06.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/log.gif",
+        "filename": "log.gif",
+        "title": "Log",
+        "slug": "log",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/log.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/e/-/bustedtees.c693419e-fda0-4f7a-b1b3-60087f28.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/expecto-patronum.gif",
+        "filename": "expecto-patronum.gif",
+        "title": "Expecto Patronum",
+        "slug": "expecto-patronum",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/expecto-patronum.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/a/-/bustedtees.3c0086ba-53e5-4525-b6ed-3f961006.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/outa-time.gif",
+        "filename": "outa-time.gif",
+        "title": "Outa Time",
+        "slug": "outa-time",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/outa-time.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/3/-/bustedtees.b0aa2013-4d14-43a8-8981-2099d28b.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/kaiju-alpha.gif",
+        "filename": "kaiju-alpha.gif",
+        "title": "Kaiju Alpha",
+        "slug": "kaiju-alpha",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/kaiju-alpha.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/1/-/bustedtees.b6ceb3c1-15f1-446a-8397-83d7ce8f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/funny-or-die-less-talking-more-tacos.gif",
+        "filename": "funny-or-die-less-talking-more-tacos.gif",
+        "title": "Funny or Die: Less Talking, More Tacos",
+        "slug": "funny-or-die-less-talking-more-tacos",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/funny-or-die-less-talking-more-tacos.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/c/-/bustedtees.f01695cc-831b-4298-8a7d-c914fdea.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/stay-on-target.gif",
+        "filename": "stay-on-target.gif",
+        "title": "Stay on Target",
+        "slug": "stay-on-target",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/stay-on-target.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/e/-/bustedtees.efb0af6e-7d77-4b94-81cc-faf62bd2.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/thomas-the-tank.gif",
+        "filename": "thomas-the-tank.gif",
+        "title": "Thomas the Tank",
+        "slug": "thomas-the-tank",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/thomas-the-tank.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/0/-/bustedtees.88936d20-5884-459f-85b6-deaa0b03.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/bayside-high.gif",
+        "filename": "bayside-high.gif",
+        "title": "Bayside High",
+        "slug": "bayside-high",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/bayside-high.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/8/-/bustedtees.41cd87c8-a145-4a9e-980a-280e3b2f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/funny-or-die-try-restart.gif",
+        "filename": "funny-or-die-try-restart.gif",
+        "title": "Funny or Die: Try Restart",
+        "slug": "funny-or-die-try-restart",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/funny-or-die-try-restart.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/e/-/bustedtees.73a6472e-cfb0-41b0-8663-ccc7ba9a.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/big-bobs.gif",
+        "filename": "big-bobs.gif",
+        "title": "Big Bobs",
+        "slug": "big-bobs",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/big-bobs.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/a/-/bustedtees.6d09ef5a-9da2-40c5-befe-60bcb324.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/hello-assbutt.gif",
+        "filename": "hello-assbutt.gif",
+        "title": "Hello Assbutt",
+        "slug": "hello-assbutt",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/hello-assbutt.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/4/-/bustedtees.9076d844-6f1c-4e23-9514-8b40f839.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/shauns-last-chance.gif",
+        "filename": "shauns-last-chance.gif",
+        "title": "Shauns Last Chance",
+        "slug": "shauns-last-chance",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/shauns-last-chance.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/d/-/bustedtees.ac603b3d-53f4-4a52-8e46-a1e86a05.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/e-honda-preowned-cars.gif",
+        "filename": "e-honda-preowned-cars.gif",
+        "title": "E-Honda PreOwned Cars",
+        "slug": "e-honda-preowned-cars",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/e-honda-preowned-cars.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/9/-/bustedtees.546caa19-a2db-4bea-9a38-82f1e24a.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/wandstock.gif",
+        "filename": "wandstock.gif",
+        "title": "Wandstock",
+        "slug": "wandstock",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/wandstock.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/0/-/bustedtees.c0c15680-59c1-4d75-ae30-70b64748.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/donkey-kong-country.gif",
+        "filename": "donkey-kong-country.gif",
+        "title": "Donkey Kong Country",
+        "slug": "donkey-kong-country",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/donkey-kong-country.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/1/-/bustedtees.d98521a1-9353-4dbd-965a-9d78b6f6.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/adamantium.gif",
+        "filename": "adamantium.gif",
+        "title": "Adamantium",
+        "slug": "adamantium",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/adamantium.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/d/-/bustedtees.01e1bfcd-71f2-41ca-963a-133235b2.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/im-about-that-life.gif",
+        "filename": "im-about-that-life.gif",
+        "title": "I'm About That Life",
+        "slug": "im-about-that-life",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/im-about-that-life.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/6/-/bustedtees.b4508d66-333c-4e9f-b574-da5a8134.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/home.gif",
+        "filename": "home.gif",
+        "title": "Home",
+        "slug": "home",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/home.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/5/-/bustedtees.b0336e85-0fa3-4169-963f-35bb4e7d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/b-is-for-blood-sugar.gif",
+        "filename": "b-is-for-blood-sugar.gif",
+        "title": "B is for Blood Sugar",
+        "slug": "b-is-for-blood-sugar",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/b-is-for-blood-sugar.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/7/-/bustedtees.ae410547-4db6-4b92-a96b-79690887.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/caterkiller.gif",
+        "filename": "caterkiller.gif",
+        "title": "Caterkiller",
+        "slug": "caterkiller",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/caterkiller.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/9/-/bustedtees.81bdb909-adec-4b13-a016-bd832662.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/master-chief-teabagger.gif",
+        "filename": "master-chief-teabagger.gif",
+        "title": "Master Chief: Teabagger",
+        "slug": "master-chief-teabagger",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/master-chief-teabagger.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/6/-/bustedtees.62856886-6b9b-4cbb-a098-b5f60b98.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/alexandria-sheriffs-department.gif",
+        "filename": "alexandria-sheriffs-department.gif",
+        "title": "Alexandria Sheriff's Department",
+        "slug": "alexandria-sheriffs-department",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/alexandria-sheriffs-department.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/c/-/bustedtees.f62b912c-840b-42a8-9e7d-ef5b4481.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/smash-fight-night.gif",
+        "filename": "smash-fight-night.gif",
+        "title": "Smash Fight Night",
+        "slug": "smash-fight-night",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/smash-fight-night.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/b/-/bustedtees.ee703c4b-5a67-4637-b9a7-f337c291.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/arm-mjolnir.gif",
+        "filename": "arm-mjolnir.gif",
+        "title": "Arm & Mjolnir",
+        "slug": "arm-mjolnir",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/arm-mjolnir.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/e/-/bustedtees.0b518fce-2aa5-472d-8a58-759b032d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/midnight-desolation.gif",
+        "filename": "midnight-desolation.gif",
+        "title": "Midnight Desolation",
+        "slug": "midnight-desolation",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/midnight-desolation.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/4/7/bustedtees.4be4c69473afe35bafea9a7770acb62d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/there-their--they--thurr.gif",
+        "filename": "there-their--they--thurr.gif",
+        "title": "There & Their & They' & Thurr",
+        "slug": "there-their--they--thurr",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/there-their--they--thurr.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/5/-/bustedtees.c3fb0de5-cbdf-406e-b51f-b0761d4e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/quadruple-t-rex.gif",
+        "filename": "quadruple-t-rex.gif",
+        "title": "Quadruple T-Rex",
+        "slug": "quadruple-t-rex",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/quadruple-t-rex.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/0/-/bustedtees.167fe160-08dd-48a5-bac1-9afc524e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/anti-clothes-80-mph.gif",
+        "filename": "anti-clothes-80-mph.gif",
+        "title": "Anti-Clothes: 80 MPH",
+        "slug": "anti-clothes-80-mph",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/anti-clothes-80-mph.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/5/-/bustedtees.6d801215-2dd6-4515-b05e-ab05f8c4.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/flux-capacitor-.gif",
+        "filename": "flux-capacitor-.gif",
+        "title": "Flux Capacitor ",
+        "slug": "flux-capacitor-",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/flux-capacitor-.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/d/-/bustedtees.680d041d-f73a-49c0-bdcc-c33b4779.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/ed-209-service-and-repair-manual.gif",
+        "filename": "ed-209-service-and-repair-manual.gif",
+        "title": "ED 209 Service and Repair Manual",
+        "slug": "ed-209-service-and-repair-manual",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/ed-209-service-and-repair-manual.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/f/-/bustedtees.33c7684f-faf9-4d64-847d-d3177bf7.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/winchester-bros.gif",
+        "filename": "winchester-bros.gif",
+        "title": "Winchester Bros",
+        "slug": "winchester-bros",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/winchester-bros.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/5/-/bustedtees.ab3f9bb5-d252-4aef-85c5-9bf1a3c8.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/petod.gif",
+        "filename": "petod.gif",
+        "title": "PETOD",
+        "slug": "petod",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/petod.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/7/-/bustedtees.9f1aeb17-4472-47ea-87cc-ab3553a4.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/lucky-dragon.gif",
+        "filename": "lucky-dragon.gif",
+        "title": "Lucky Dragon",
+        "slug": "lucky-dragon",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/lucky-dragon.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/b/-/bustedtees.9e08b72b-10d7-46ef-b818-cd3d27ce.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/links-lawn-care.gif",
+        "filename": "links-lawn-care.gif",
+        "title": "Links Lawn Care",
+        "slug": "links-lawn-care",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/links-lawn-care.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/4/-/bustedtees.1a210e04-c6a6-429d-8c3c-d1f83445.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/pixelverse.gif",
+        "filename": "pixelverse.gif",
+        "title": "Pixelverse",
+        "slug": "pixelverse",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/pixelverse.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/0/-/bustedtees.301b1240-47ad-4706-b3a3-3c1880f2.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/toothless-academy.gif",
+        "filename": "toothless-academy.gif",
+        "title": "Toothless Academy",
+        "slug": "toothless-academy",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/toothless-academy.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/0/-/bustedtees.df001fa0-ab9a-45fb-8299-8a4e5b2f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/i-fart-in-your-general-direction.gif",
+        "filename": "i-fart-in-your-general-direction.gif",
+        "title": "I Fart in Your General Direction",
+        "slug": "i-fart-in-your-general-direction",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/i-fart-in-your-general-direction.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/1/-/bustedtees.0643e031-2ccb-4ba3-9b54-87397894.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/cool-weird-al.gif",
+        "filename": "cool-weird-al.gif",
+        "title": "Cool Weird Al",
+        "slug": "cool-weird-al",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/cool-weird-al.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/6/-/bustedtees.d9fadba6-417f-42d1-8711-f2a0f9c8.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/science-it-works.gif",
+        "filename": "science-it-works.gif",
+        "title": "Science It Works",
+        "slug": "science-it-works",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/science-it-works.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/1/-/bustedtees.419394a1-1475-459f-b63f-00079b41.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/hanzo-steel.gif",
+        "filename": "hanzo-steel.gif",
+        "title": "Hanzo Steel",
+        "slug": "hanzo-steel",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/hanzo-steel.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/3/-/bustedtees.2c926e93-4359-4b64-9fcf-d466afee.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/jawa-droid-sales.gif",
+        "filename": "jawa-droid-sales.gif",
+        "title": "Jawa Droid Sales",
+        "slug": "jawa-droid-sales",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/jawa-droid-sales.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/e/-/bustedtees.4fec3c0e-bc36-4690-9a92-efbe83f9.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/house-skywalker.gif",
+        "filename": "house-skywalker.gif",
+        "title": "House Skywalker",
+        "slug": "house-skywalker",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/house-skywalker.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/8/-/bustedtees.299156f8-473d-4001-8a5e-be2d0142.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/dalek-exterminators.gif",
+        "filename": "dalek-exterminators.gif",
+        "title": "Dalek Exterminators",
+        "slug": "dalek-exterminators",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/dalek-exterminators.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/2/-/bustedtees.fed273d2-b5e7-41d8-8254-c2c14aef.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/gameboy-breakdown.gif",
+        "filename": "gameboy-breakdown.gif",
+        "title": "GameBoy Breakdown",
+        "slug": "gameboy-breakdown",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/gameboy-breakdown.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/d/-/bustedtees.9fc6027d-8cbd-49a9-b5fc-9bd194c4.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/greendale-alumni.gif",
+        "filename": "greendale-alumni.gif",
+        "title": "Greendale Alumni",
+        "slug": "greendale-alumni",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/greendale-alumni.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/0/-/bustedtees.5810a290-e351-4c05-a9c8-89d2c485.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/coexist.gif",
+        "filename": "coexist.gif",
+        "title": "Coexist",
+        "slug": "coexist",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/coexist.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/c/-/bustedtees.398ad40c-56d8-4ddc-b833-3e5ad61d.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/carl-and-rick.gif",
+        "filename": "carl-and-rick.gif",
+        "title": "Carl and Rick",
+        "slug": "carl-and-rick",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/carl-and-rick.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/4/-/bustedtees.ee4a9ce4-687d-4131-9192-9f3c1192.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/what-does-the-fox-say.gif",
+        "filename": "what-does-the-fox-say.gif",
+        "title": "What Does The Fox Say",
+        "slug": "what-does-the-fox-say",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/what-does-the-fox-say.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/a/-/bustedtees.cae23d9a-6576-4dd3-bd87-e5c3f1f7.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/fantasy-football.gif",
+        "filename": "fantasy-football.gif",
+        "title": "Fantasy Football",
+        "slug": "fantasy-football",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/fantasy-football.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/2/-/bustedtees.58a08f42-80b6-4c35-bb87-30052c4e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/mutt-cutts.gif",
+        "filename": "mutt-cutts.gif",
+        "title": "Mutt Cutts",
+        "slug": "mutt-cutts",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/mutt-cutts.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/7/-/bustedtees.9735fdb7-67e0-45e8-83e9-e4f5f4cd.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/bender-vs-dalek.gif",
+        "filename": "bender-vs-dalek.gif",
+        "title": "Bender vs. Dalek",
+        "slug": "bender-vs-dalek",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/bender-vs-dalek.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/d/-/bustedtees.3218734d-9db4-4f33-bbbf-b0ec138f.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/hershels-veterinary-clinic.gif",
+        "filename": "hershels-veterinary-clinic.gif",
+        "title": "Hershel's Veterinary Clinic",
+        "slug": "hershels-veterinary-clinic",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/hershels-veterinary-clinic.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/c/-/bustedtees.b9bf796c-be49-4e44-b2a7-0252bafb.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/i-heart-wendy-peffercorn.gif",
+        "filename": "i-heart-wendy-peffercorn.gif",
+        "title": "I Heart Wendy Peffercorn",
+        "slug": "i-heart-wendy-peffercorn",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/i-heart-wendy-peffercorn.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/b/-/bustedtees.14cebbeb-f022-4a26-be05-afa2f111.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/we-can-slay-it.gif",
+        "filename": "we-can-slay-it.gif",
+        "title": "We Can Slay It",
+        "slug": "we-can-slay-it",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/we-can-slay-it.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/a/-/bustedtees.8521fd5a-5352-4c99-9163-29f3cb6e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/my-lil-sebastian.gif",
+        "filename": "my-lil-sebastian.gif",
+        "title": "My Lil' Sebastian",
+        "slug": "my-lil-sebastian",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/my-lil-sebastian.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/f/-/bustedtees.7a232b0f-3a22-4f79-b09b-c06ab0c3.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/sleepy-hollow.gif",
+        "filename": "sleepy-hollow.gif",
+        "title": "Sleepy Hollow",
+        "slug": "sleepy-hollow",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/sleepy-hollow.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/5/-/bustedtees.afef0de5-b636-4fd9-927d-9e03191a.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/dream-team.gif",
+        "filename": "dream-team.gif",
+        "title": "Dream Team",
+        "slug": "dream-team",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/dream-team.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/a/-/bustedtees.3d4e466a-d53b-4348-95fc-ec1f33a7.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/never-ford-it.gif",
+        "filename": "never-ford-it.gif",
+        "title": "Never Ford It",
+        "slug": "never-ford-it",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/never-ford-it.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/d/-/bustedtees.1ceb42ad-ddbe-42eb-9bc1-e8f12101.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/best-of-the-best.gif",
+        "filename": "best-of-the-best.gif",
+        "title": "Best of the Best",
+        "slug": "best-of-the-best",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/best-of-the-best.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/f/-/bustedtees.0c7ff43f-e415-4a9f-8279-4c3f5f3b.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/camp-endor.gif",
+        "filename": "camp-endor.gif",
+        "title": "Camp Endor",
+        "slug": "camp-endor",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/camp-endor.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/c/-/bustedtees.ae9267ac-8d65-44b4-b1fc-369d09d1.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/rancor-anatomy.gif",
+        "filename": "rancor-anatomy.gif",
+        "title": "Rancor Anatomy",
+        "slug": "rancor-anatomy",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/rancor-anatomy.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/6/-/bustedtees.d2b3bc96-01fa-42d5-96b6-3cf162c6.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/second-breakfast-diner.gif",
+        "filename": "second-breakfast-diner.gif",
+        "title": "Second Breakfast Diner",
+        "slug": "second-breakfast-diner",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/second-breakfast-diner.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/b/-/bustedtees.78e5610b-1002-4461-967c-162e1d2e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/house-droid.gif",
+        "filename": "house-droid.gif",
+        "title": "House Droid",
+        "slug": "house-droid",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/house-droid.gif"
+    },
+    {
+        "originalLocation": "http://4.media.bustedtees.cvcdn.com/5/-/bustedtees.6a95f1d5-623d-419b-ac44-e66214b9.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/basic-bitch.gif",
+        "filename": "basic-bitch.gif",
+        "title": "Basic Bitch",
+        "slug": "basic-bitch",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/basic-bitch.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/5/-/bustedtees.329420c5-17f7-4520-8b2c-d752ad78.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/the-sweater-that-lived.gif",
+        "filename": "the-sweater-that-lived.gif",
+        "title": "The Sweater That Lived",
+        "slug": "the-sweater-that-lived",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/the-sweater-that-lived.gif"
+    },
+    {
+        "originalLocation": "http://0.media.bustedtees.cvcdn.com/d/-/bustedtees.cae1c2fd-5f0e-47b1-8036-7847ed21.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/empire-enterprises.gif",
+        "filename": "empire-enterprises.gif",
+        "title": "Empire Enterprises",
+        "slug": "empire-enterprises",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/empire-enterprises.gif"
+    },
+    {
+        "originalLocation": "http://6.media.bustedtees.cvcdn.com/f/-/bustedtees.de04fe2f-c5b4-47e7-bc7e-f0956a56.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/captain-canada.gif",
+        "filename": "captain-canada.gif",
+        "title": "Captain Canada",
+        "slug": "captain-canada",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/captain-canada.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/9/-/bustedtees.cf18e779-f9f7-4a34-b6ed-f2d1cc38.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/freddy-fazbear-security.gif",
+        "filename": "freddy-fazbear-security.gif",
+        "title": "Freddy Fazbear Security",
+        "slug": "freddy-fazbear-security",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/freddy-fazbear-security.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/0/-/bustedtees.9d467f60-854f-4712-984e-50a2780a.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/cantina-band.gif",
+        "filename": "cantina-band.gif",
+        "title": "Cantina Band",
+        "slug": "cantina-band",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/cantina-band.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/c/-/bustedtees.4d28f92c-c3c0-469a-900f-f35e7656.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/the-dragons-knot.gif",
+        "filename": "the-dragons-knot.gif",
+        "title": "The Dragon's Knot",
+        "slug": "the-dragons-knot",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/the-dragons-knot.gif"
+    },
+    {
+        "originalLocation": "http://3.media.bustedtees.cvcdn.com/2/-/bustedtees.544dfac2-6ecb-4cac-8c1c-cf49e31e.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/terminus-diner.gif",
+        "filename": "terminus-diner.gif",
+        "title": "Terminus Diner",
+        "slug": "terminus-diner",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/terminus-diner.gif"
+    },
+    {
+        "originalLocation": "http://7.media.bustedtees.cvcdn.com/d/-/bustedtees.05ac28ad-072e-4f4d-931e-dea8adad.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/swiss-army-saber.gif",
+        "filename": "swiss-army-saber.gif",
+        "title": "Swiss Army Saber",
+        "slug": "swiss-army-saber",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/swiss-army-saber.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/6/-/bustedtees.b9bd7c46-0692-471d-87cb-6503b9a5.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/potter-weasley.gif",
+        "filename": "potter-weasley.gif",
+        "title": "Potter & Weasley",
+        "slug": "potter-weasley",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/potter-weasley.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/e/-/bustedtees.240e184e-dd12-423e-b423-f202e134.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/fireflower.gif",
+        "filename": "fireflower.gif",
+        "title": "Fireflower",
+        "slug": "fireflower",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/fireflower.gif"
+    },
+    {
+        "originalLocation": "http://1.media.bustedtees.cvcdn.com/8/-/bustedtees.74833218-b325-49b8-965a-79e83cdf.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/eeveelution-chart.gif",
+        "filename": "eeveelution-chart.gif",
+        "title": "Eeveelution Chart",
+        "slug": "eeveelution-chart",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/eeveelution-chart.gif"
+    },
+    {
+        "originalLocation": "http://8.media.bustedtees.cvcdn.com/1/-/bustedtees.b0ebcc21-4f95-4ee3-8205-f6568df0.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/death-stare.gif",
+        "filename": "death-stare.gif",
+        "title": "Death Stare",
+        "slug": "death-stare",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/death-stare.gif"
+    },
+    {
+        "originalLocation": "http://5.media.bustedtees.cvcdn.com/0/-/bustedtees.7e3a1f50-52d0-4a1b-b02e-abc80cec.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/nuka-cola.gif",
+        "filename": "nuka-cola.gif",
+        "title": "Nuka-Cola",
+        "slug": "nuka-cola",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/nuka-cola.gif"
+    },
+    {
+        "originalLocation": "http://9.media.bustedtees.cvcdn.com/c/-/bustedtees.f27c995c-8773-4f1a-a194-9cdc0537.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/imperial-guard.gif",
+        "filename": "imperial-guard.gif",
+        "title": "Imperial Guard",
+        "slug": "imperial-guard",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/imperial-guard.gif"
+    },
+    {
+        "originalLocation": "http://2.media.bustedtees.cvcdn.com/7/-/bustedtees.154893e7-1af7-4c5e-8a21-024798a4.gif",
+        "filePath": "/img/uploads/busted-tees/thumbnails/marceline-world-tour.gif",
+        "filename": "marceline-world-tour.gif",
+        "title": "Marceline World Tour",
+        "slug": "marceline-world-tour",
+        "fileSavePath": "public/img/uploads/busted-tees/thumbnails/marceline-world-tour.gif"
+    }
+]

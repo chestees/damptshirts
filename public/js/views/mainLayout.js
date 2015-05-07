@@ -5,7 +5,7 @@ define( function( require ) {
 	var HeaderView   = require( 'js/views/headerView' );
 	var AsideView    = require( 'js/views/asideView' );
 	
-	var tmplMainLayout 		 = require( 'text!/templates/mainLayout.html' );
+	var tmplMainLayout 		 = require( 'text!templates/mainLayout.html' );
 
 	mainLayoutView = Marionette.LayoutView.extend({
 		template: _.template( tmplMainLayout )

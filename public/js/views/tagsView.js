@@ -2,7 +2,7 @@ define( function( require ) {
 	
 	var Marionette      = require( 'marionette' );
 
-	var tmplTags = require( 'text!/templates/tags.html' );
+	var tmplTags = require( 'text!templates/tags.html' );
 
 	var TagsView = Marionette.ItemView.extend({
 		template: _.template( tmplTags )

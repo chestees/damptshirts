@@ -2,7 +2,7 @@ define( function( require ) {
 
 	var Marionette 		= require( 'marionette' );
 
-	var tmplAside = require( 'text!/templates/aside.html' );
+	var tmplAside = require( 'text!templates/aside.html' );
 
 	var AsideView = Marionette.ItemView.extend({
 		template: _.template( tmplAside )

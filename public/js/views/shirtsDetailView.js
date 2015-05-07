@@ -2,7 +2,7 @@ define( function( require ) {
 	
 	var Marionette = require( 'marionette' );
 
-	var tmplDetail = require( 'text!/templates/detail.html' );
+	var tmplDetail = require( 'text!templates/detail.html' );
 
 	var ShirtsDetailView = Marionette.ItemView.extend({
 		template: _.template( tmplDetail )
@@ -19,8 +19,13 @@ define( function( require ) {
 			
 		}
 		, imageSize: function() {
-			imageLg = this.model.get('imageLg');
-			imageSm = this.model.get('image');
+			var imageLg;
+			var imageSm;
+			if( this.model.get( 'imageLg' ) ) {
+				imageLg = this.model.get( 'imageLg' );
+			}
+			
+			imageSm = this.model.get( 'image' );
 
 			!imageLg ? image = imageSm : image = imageLg;
 

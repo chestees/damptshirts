@@ -2,7 +2,7 @@ define( function( require ) {
 	
 	var Marionette  = require( 'marionette' );
 	
-	var tmplSortBar = require( 'text!/templates/sortBar.html' );
+	var tmplSortBar = require( 'text!templates/sortBar.html' );
 
 	var SortBar = Marionette.ItemView.extend({
 		template: _.template( tmplSortBar )

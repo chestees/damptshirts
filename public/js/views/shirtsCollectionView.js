@@ -14,6 +14,7 @@ define( function( require ) {
 			maxWidth = ( this.app.mainLayout.content.$el.width() ) / 6;
 			return {
 				maxWidth: maxWidth
+				, app: this.app
 			}
 		}
 		, id: 'shirts'

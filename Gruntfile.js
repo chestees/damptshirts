@@ -1,36 +1,36 @@
 module.exports = function(grunt) {
+	grunt.initConfig({
+		pkg: grunt.file.readJSON('package.json')
+		, less: {
+			dev: {
+				options: {
+				compile: true,
+				compress: true
+			},
+			files: {
+				"public/css/style.css": "public/css/style.less"
+				} 
+			}
+		}
+		, requirejs: {
+			compile: {
+				options: {
+					baseUrl: "./public",
+					mainConfigFile: "./public/js/require-config.js",
 
-  // Project configuration.
-  grunt.initConfig({
-    pkg: grunt.file.readJSON('package.json'),
-    less: {
-      dev: {
-        options: {
-          compile: true,
-          compress: true
-        },
-        files: {
-          "public/css/style.css": "public/css/style.less"
-        }
-      }
-      // production: {
-      //   options: {
-      //     paths: ["assets/css"],
-      //     cleancss: true,
-      //     modifyVars: {
-      //       imgPath: '"http://mycdn.com/path/to/images"',
-      //       bgColor: 'red'
-      //     }
-      //   },
-      //   files: {
-      //     "path/to/result.css": "path/to/source.less"
-      //   }
-      // }
-    }
-  });
-  // Load the plugin that provides the "less" task.
-  grunt.loadNpmTasks('grunt-contrib-less');
+					name: "js/app-start",
+					include: [],
+					insertRequire: ['js/app-start'],
+					out: "./public/js/o.js",
+				}
+			}
+		}
+	});
 
-  // Default task(s).
-  grunt.registerTask('default', ['less:dev']);
+	grunt.loadNpmTasks('grunt-contrib-less');
+	grunt.loadNpmTasks('grunt-contrib-requirejs');
+
+	// Default task(s).
+	grunt.registerTask( 'default', [ 'less:dev' ] );
+	grunt.registerTask( 'default', [ 'requirejs' ] );
 };

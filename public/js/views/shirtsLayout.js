@@ -6,7 +6,7 @@ define( function( require ) {
 	var SortBar              = require( 'js/views/sortBar.js' );
 	var ShirtDetail          = require( 'js/views/shirtsDetailView' );
 
-	var tmplShirts = require( 'text!/templates/shirts.html' );
+	var tmplShirts = require( 'text!templates/shirts.html' );
 
 	shirtsLayout = Marionette.LayoutView.extend({
 		template: _.template( tmplShirts )

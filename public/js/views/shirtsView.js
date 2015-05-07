@@ -3,15 +3,16 @@ define( function( require ) {
 	var Marionette		= require( 'marionette' );
 	var Velocity        = require( 'velocity' );
 	var Moment          = require( 'moment' );
+	var Handlebars      = require( 'handlebars' );
 
 	var ShirtCollection = require( 'js/collections/shirtCollection' );
 	var ShirtModel      = require( 'js/models/shirtsModel.js' );
 	var ShirtDetailView = require( 'js/views/shirtsDetailView' );
 
-	var tmplThumbnail   = require( 'text!/templates/thumbnail.html' );
+	var tmplThumbnail   = require( 'text!templates/thumbnail.html' );
 
 	var ShirtsView = Marionette.ItemView.extend({
-		template: _.template( tmplThumbnail )
+		template: Handlebars.compile( tmplThumbnail )
 		, ui: {
 			'productLink': '.product-link',
 			'productImage': '.product-image',
@@ -32,8 +33,11 @@ define( function( require ) {
 		, className: 'product'
 		, templateHelpers: function() {
 			return {
-				dateAdded: moment( this.model.get( 'dateAdded' )).fromNow()
+				DateAdded: moment( this.model.get( 'DateAdded' )).fromNow()
 			};
+		}
+		, initialize: function( options ) {
+			this.app = options.app;
 		}
 		, onRender: function( options ) {
 			var border = 2;
@@ -45,7 +49,8 @@ define( function( require ) {
 			console.log( this.$el.outerWidth() );
 		}
 		, showDetail: function() {
-			app.mainLayout.content.show( new ShirtDetailView( this.model ) );
+			this.app.shirtModel = this.model;
+			this.app.router.navigate( 'details' );
 		}
 		, showVoting: function() {
 			this.showRollover = setTimeout( _.bind( this.productRollover, this ), 300 );

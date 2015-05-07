@@ -1,8 +1,8 @@
-<a class="product-link" href="#/<%= slug %>/shirt" data-id="<%= _id %>">
-	<img class="product-image img-rounded" alt="<%= title %>" title="<%= title %>" src="<%= image %>">
+<a class="product-link" href="#/{{ slug }}/shirt" data-id="{{ dampId }}">
+	<img class="product-image img-rounded" alt="{{ title }}" title="{{ title }}" src="{{ image }}">
 </a>
-<div class="thumbs" data-id="<%= _id %>">
-	<span class="badge vote-count"><%= thumbs %> votes</span>
+<div class="thumbs" data-id="{{ dampId }}">
+	<span class="badge vote-count">{{ thumbs }} votes</span>
 	<div class="thumbs_info">
 		<div class="btn btn-danger vote-down">
 			<span class="txt">Meh</span>
@@ -10,6 +10,6 @@
 		<div class="btn btn-primary l_margin_5 vote-up">
 			<span class="txt">Like</span>
 		</div>
-		<div class="date-added"><%= dateAdded %></div>
+		<div class="date-added">{{ dateAdded }}</div>
 	</div>
 </div>
