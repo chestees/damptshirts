@@ -1,6 +1,4 @@
 var express   = require('express'),
-	restful     = require('node-restful'),
-	mongoose    = restful.mongoose,
 	serveStatic = require('serve-static'),
 	request     = require('request'),
 	_           = require('underscore'),
@@ -15,7 +13,7 @@ config = {
 	server: process.env.DB_SERVER,
 	database: process.env.DB_NAME
 }
-// app.use( bodyParser() );
+
 app.use( serveStatic('public') );
 app.set( 'port', ( process.env.PORT || 5000 ) );
 app.listen( app.get( 'port' ), _.bind( function() {
@@ -79,7 +77,3 @@ app.get('/scrape/all', function(req, res){
 		});
     });
 });
-
-// app.use('/*', function  (req, res) {
-//   res.redirect('404.html');
-// } );
