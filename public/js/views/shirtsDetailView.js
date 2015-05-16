@@ -1,17 +1,22 @@
 define( function( require ) {
 	
 	var Marionette = require( 'marionette' );
+	var Handlebars = require( 'handlebars' );
 
 	var tmplDetail = require( 'text!templates/detail.html' );
 
-	var ShirtsDetailView = Marionette.ItemView.extend({
-		template: _.template( tmplDetail )
+	var ShirtsDetailView = Marionette.LayoutView.extend({
+		template: Handlebars.compile( tmplDetail )
 		, templateHelpers: function() {
 			return {
 				image: this.imageSize()
 			}
 		}
-		, className: 'detail'
+		, className: 'detail container-fluid'
+		, regions: {
+			tags: '.tags'
+			, social: '.social'
+		}
 		, initialize: function( options ) {
 			this.model = options.model;
 		}

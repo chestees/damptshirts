@@ -15,19 +15,18 @@ module.exports = function( app ) {
 			tags.input('DampId', sql.Int, req.params.dampId);
 
 			tags.execute('usp_Damp_Tags', function( err, recordset, returnValue ) {
-					app.tags = recordset[0];
-					res.send( app.tags );
+				app.tags = recordset[0];
+				res.send( app.tags );
 
-console.log(recordset.length); // count of recordsets returned by the procedure 
-console.log(recordset[0].length); // count of rows contained in first recordset 
-console.log(returnValue); // procedure return value 
-console.log(recordset.returnValue); // same as previous line 
+				console.log(recordset.length); // count of recordsets returned by the procedure 
+				console.log(recordset[0].length); // count of rows contained in first recordset 
+				console.log(returnValue); // procedure return value 
+				console.log(recordset.returnValue); // same as previous line 
 
-					if( err ) {
-						console.log("Error: " + err );
-					}
+				if( err ) {
+					console.log("Error: " + err );
 				}
-			);
+			});
 		});
 	}, this ) );
 };

@@ -1,16 +1,30 @@
-<h1><%= title %></h1>
-
-<div class="coupon_bar"><div class="coupon_title">Did somebody say discount?</div>
-	<div class="coupon_text">Free shipping on orders $75 or more (US only)</div>
+<div class="row detail-container">
+	<div class="col-md-8">	
+		<h1>{{ title }}</h1>
+		<div class="coupon">
+			<div class="title">Did somebody say discount?</div>
+			<div class="description">Free shipping on orders $75 or more (US only)</div>
+		</div>
+		<div class="row">
+			<div class="product-image col-md-10"><img src="{{ image }}"></div>
+			<div class="col-md-2">
+				<button href="#" class="btn btn-danger pull-right">Buy Me</button>
+			</div>
+		</div>
+		<div class="vendor">From "vendor"</div>
+		<div class="social">
+			<div class="title">Share</div>
+			<div class="description">Social goes here.</div>
+		</div>
+		<div class="tags">
+			<ul class="tags-list">
+				{{#each tags}}
+				<li><a class="btn" href="#">{{ tag }}</a></li>
+				{{/each}}
+			</ul>
+		</div>
+	</div>
+	<div class="recommend col-md-4">
+		<h2>Others you might like</h2>
+	</div>
 </div>
-<div class="product-image"><img src="<%= image %>"></div>
-<div>From "vendor"</div>
-<div>Show other shirts in this tag</div>
-<div class="coupon_bar"><div class="coupon_title">Share</div>
-	<div class="coupon_text">Social goes here.</div>
-</div>
-<ul class="tags_shirt clearfix"><li>Tags:</li>
-		<li><a class="btn" href="/shirt/tag/1/snorg-tees/"></a></li>
-</ul>
-
-<button href="#" class="btn btn-danger">Buy Me</button>

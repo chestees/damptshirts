@@ -22,9 +22,12 @@ app.listen( app.get( 'port' ), _.bind( function() {
 	console.log( "Node app is running at localhost:" + app.get( 'port' ) );
 }, this ) );
 
-require( './routes/productBySlug' )( app );
+require( './routes/product' )( app );
 require( './routes/productTags' )( app );
-require( './productListing' )( app );
+require( './routes/productListing' )( app );
+require( './routes/tags' )( app );
+require( './routes/tagRelations' )( app );
+require( './routes/vendors' )( app );
 require( './scrapers/threadless' )( app );
 require( './scrapers/busted-tees' )( app );
 

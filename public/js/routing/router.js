@@ -15,14 +15,14 @@ define( function( require ) {
 		}
 		, routes : {
 			'': 'home',
-			':slug/shirt': 'details',
+			':slug/shirt/:dampId': 'details',
 			'tag-list': 'tagList',
 			'scraper': 'scraper'
 		}
 		, home : function() {
 			this.app.mainLayout.content.show( new ShirtsCollectionView( this.app ) );
 		}
-		, details : function( slug ) {
+		, details : function( slug, dampId ) {
 			var shirtModel = this.app.shirtModel;
 			
 			// Check if the model is set
@@ -30,9 +30,9 @@ define( function( require ) {
 				
 				console.log( "NO MODEL" );
 				
-				shirtModel = new ShirtModel( { 'slug': slug } );
+				shirtModel = new ShirtModel( { 'dampId': dampId } );
 				shirtModel.fetch().done( _.bind( function( data ) {
-					this.app.shirtModel = new ShirtModel( data[0] );
+					this.app.shirtModel = new ShirtModel( data );
 					this.app.mainLayout.content.show( new DetailView( { model: this.app.shirtModel } ) );
 				}, this ) );
 			} else {
