@@ -21,7 +21,7 @@ module.exports = function( app ) {
 				// console.log( '2: ' + JSON.stringify( recordset[1] ) + '\n' );
 				
 				app.product      = recordset[0][0];
-				app.Product.tags = recordset[1];
+				app.product.tags = recordset[1];
 
 				// console.log('Length: ' + recordset.length); // count of recordsets returned by the procedure 
 				// console.log('Length [0]: ' + recordset[0].length); // count of rows contained in first recordset 

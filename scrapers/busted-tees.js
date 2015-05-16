@@ -2,7 +2,6 @@ var request     = require('request'),
 	_           = require('underscore'),
 	cheerio     = require('cheerio'),
 	fs          = require('fs'),
-	async       = require('async')
 	slugConvert = require('../lib/slugConvert'),
 	saveImage   = require('../lib/saveImage');
 
