@@ -46,11 +46,6 @@ define( function( require ) {
 			vendorId   = this.model.get( 'vendorId' );
 
 			document.title = this.model.get( 'title');
-			this.app.ogUrl.attr( 'content', 'http://damptshirts.herokuapp.com/#/' + this.model.get( 'slug' ) + '/shirt/' + this.model.id );
-			this.app.ogTitle.attr( 'content', this.model.get( 'title' ) );
-			this.app.ogDescription.attr( 'content', this.model.get( 'description' ) );
-			this.app.ogType.attr( 'content', 'product' );
-			this.app.ogImage.attr( 'content', this.model.get( 'image' ) );
 
 			this.vendors = options.app.vendorCollection;
 			this.vendor = _.find( this.vendors.models, _.bind( function( vendor ) {

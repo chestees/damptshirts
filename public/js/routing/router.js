@@ -38,6 +38,11 @@ define( function( require ) {
 						app: this.app
 						, model: this.app.shirtModel
 					} ) );
+					this.app.ogUrl.attr( 'content', 'http://damptshirts.herokuapp.com/#/' + this.app.shirtModel.get( 'slug' ) + '/shirt/' + this.app.shirtModel.id );
+					this.app.ogTitle.attr( 'content', this.app.shirtModel.get( 'title' ) );
+					this.app.ogDescription.attr( 'content', this.app.shirtModel.get( 'description' ) );
+					this.app.ogType.attr( 'content', 'product' );
+					this.app.ogImage.attr( 'content', this.app.shirtModel.get( 'image' ) );
 				}, this ) );
 			} else {
 				this.app.mainLayout.content.show( new DetailView( {
