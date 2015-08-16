@@ -6,7 +6,7 @@ var express   = require('express'),
 	fs          = require('fs'),
 	sql         = require( 'mssql' );
 
-app   = express();
+app = express();
 config = {
 	user: process.env.DB_USER,
 	password: process.env.DB_PASSWORD,

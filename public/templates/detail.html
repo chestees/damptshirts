@@ -1,28 +1,32 @@
 <div class="row detail-container">
-	<div class="col-md-8">	
+	<div class="col-md-8">
+		<button type="button" class="btn btn-default btn-sm back">
+			<span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span> Back to listing
+		</button>	
 		<h1>{{ title }}</h1>
-		<div class="coupon">
-			<div class="title">Did somebody say discount?</div>
-			<div class="description">Free shipping on orders $75 or more (US only)</div>
-		</div>
 		<div class="row">
 			<div class="product-image col-md-10"><img src="{{ image }}"></div>
-			<div class="col-md-2">
-				<button href="#" class="btn btn-danger pull-right">Buy Me</button>
+			<div class="btn-affiliate col-md-2">
+				<a target="_blank" href="{{ affiliateLink }}" class="btn btn-danger buy" data-url="">Buy Me</a>
 			</div>
 		</div>
-		<div class="vendor">From "vendor"</div>
-		<div class="social">
-			<div class="title">Share</div>
-			<div class="description">Social goes here.</div>
+		<div class="vendor">From <a href="{{ vendorLink }}" target="_blank">{{ vendorName }}</a></div>
+		<div class="social clearfix">
+			<div class="social-icon facebook"></div>
 		</div>
-		<div class="tags">
+		<div class="tags clearfix">
 			<ul class="tags-list">
 				{{#each tags}}
-				<li><a class="btn" href="#">{{ tag }}</a></li>
+				<li><a class="btn" href="#/{{ slug }}/tag/{{ tagId }}">{{ tag }}</a></li>
 				{{/each}}
 			</ul>
 		</div>
+		{{#if showDiscountText}}
+		<div class="coupon">
+			<div class="title">Did somebody say discount?</div>
+			<div class="description">{{{ discountText }}}</div>
+		</div>
+		{{/if}}
 	</div>
 	<div class="recommend col-md-4">
 		<h2>Others you might like</h2>

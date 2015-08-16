@@ -8,20 +8,20 @@ module.exports = function( app ) {
 		}
 
 		// Product listing
-		app.use( '/api/tags/:dampId', function( req, res ) {
+		app.use( '/api/product-tags/:dampId', function( req, res ) {
 
-			var tags = new sql.Request();
+			var productTags = new sql.Request();
 
-			tags.input('DampId', sql.Int, req.params.dampId);
+			productTags.input('DampId', sql.Int, req.params.dampId);
 
-			tags.execute('usp_Damp_Tags', function( err, recordset, returnValue ) {
-				app.tags = recordset[0];
-				res.send( app.tags );
+			productTags.execute( 'usp_Damp_Product_Tags', function( err, recordset, returnValue ) {
+				app.productTags = recordset[0];
+				res.send( app.productTags );
 
-				console.log(recordset.length); // count of recordsets returned by the procedure 
-				console.log(recordset[0].length); // count of rows contained in first recordset 
-				console.log(returnValue); // procedure return value 
-				console.log(recordset.returnValue); // same as previous line 
+				// console.log(recordset.length); // count of recordsets returned by the procedure 
+				// console.log(recordset[0].length); // count of rows contained in first recordset 
+				// console.log(returnValue); // procedure return value 
+				// console.log(recordset.returnValue); // same as previous line 
 
 				if( err ) {
 					console.log("Error: " + err );

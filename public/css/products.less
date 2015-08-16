@@ -1,60 +1,67 @@
-.product {
-	display: inline-block; 
-	position: relative;
-	vertical-align: top;
-	margin: 0 5px 10px;
-	z-index: 1;
+.product-list-container {
+	.product-list {
+		.product {
+			display: inline-block; 
+			position: relative;
+			vertical-align: top;
+			margin: 0 5px 10px;
+			z-index: 1;
 
-	&:hover {
-		z-index: 5;
+			&:hover {
+				z-index: 5;
 
-		.product-link {
-			.product-image {
-				background-color: @red;
+				.product-link {
+					.product-image {
+						background-color: @red;
+					}
+				}
+				
+			}
+			.product-link {
+				z-index: 1;
+				display: block;
+				background-color: @background;
+
+				.product-image {
+					padding: 2px;
+					background-color: @background;
+					border: 1px solid #455560;
+					text-align: center;
+					color: #000000;
+				}
+			}
+
+			.thumbs {
+
+				display: none;
+				text-align: center;
+				border: 1px solid @red;
+				// border-radius: 4px;
+				background-color: #fff;
+				padding-top: 15px;
+				position: absolute;
+				box-sizing: border-box;
+				z-index: -1;
+
+				.vote-count {
+					position: absolute;
+					top: -10px;
+					right: -10px;
+					background-color: @red;
+				}
+				.thumbs_info {
+					position: absolute;
+					bottom: 20px;
+				}
+				.date-added {
+					display: block;
+					font-weight: 700;
+					font-size: 11px;
+				}
 			}
 		}
-		
 	}
-	.product-link {
-		z-index: 1;
+	.show-more {
 		display: block;
-		background-color: @background;
-
-		.product-image {
-			padding: 2px;
-			background-color: @background;
-			border: 1px solid #455560;
-			text-align: center;
-			color: #000000;
-		}
-	}
-
-	.thumbs {
-
-		display: none;
-		text-align: center;
-		border: 1px solid @red;
-		border-radius: 4px;
-		background-color: #fff;
-		padding-top: 15px;
-		position: absolute;
-		box-sizing: border-box;
-		z-index: -1;
-
-		.vote-count {
-			position: absolute;
-			top: -10px;
-			right: -10px;
-			background-color: @red;
-		}
-		.thumbs_info {
-			position: absolute;
-			bottom: 20px;
-		}
-		.date-added {
-			display: block;
-			font-weight: 700;
-			font-size: 11px;
-		}
 	}
 }

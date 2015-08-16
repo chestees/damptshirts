@@ -12,9 +12,8 @@ module.exports = function( app ) {
 
 			var tags = new sql.Request();
 
-			// tags.query("SELECT tagId, tag, slug FROM tblDampTags WHERE isNoShow IS NULL", function( err, recordset, returnValue ) {
-			tags.query("SELECT tagId, tag, slug, isNoShow FROM tblDampTags", function( err, recordset, returnValue ) {
-				app.tags = recordset;
+			tags.execute( 'usp_Damp_Tags', function( err, recordset, returnValue ) {
+				app.tags = recordset[0];
 				res.send( app.tags );
 
 				// console.log(recordset.length); // count of recordsets returned by the procedure 

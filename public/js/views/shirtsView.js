@@ -5,7 +5,6 @@ define( function( require ) {
 	var Moment          = require( 'moment' );
 	var Handlebars      = require( 'handlebars' );
 
-	var ShirtCollection = require( 'js/collections/shirtCollection' );
 	var ShirtModel      = require( 'js/models/shirtsModel.js' );
 	var ShirtDetailView = require( 'js/views/shirtsDetailView' );
 
@@ -33,20 +32,21 @@ define( function( require ) {
 		, className: 'product'
 		, templateHelpers: function() {
 			return {
-				DateAdded: moment( this.model.get( 'DateAdded' )).fromNow()
+				dateAdded: moment( this.model.get( 'dateAdded' )).fromNow()
 			};
 		}
 		, initialize: function( options ) {
-			this.app = options.app;
+			this.app      = options.app;
+			// this.appModel = this.app.appModel;
+			this.maxWidth = ( this.app.mainLayout.content.$el.width() ) / 6;
+			this.i = 0;
 		}
 		, onRender: function( options ) {
-			var border = 2;
-			var padding = 4;
-			var margin = 10;
+			var margin = 13;
 			this.ui.productImage.css( {
-				'width': options.options.maxWidth - margin
+				'width': this.maxWidth - margin
 			} );
-			console.log( this.$el.outerWidth() );
+			this.i++;
 		}
 		, showDetail: function() {
 			this.app.shirtModel = this.model;

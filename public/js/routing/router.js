@@ -5,7 +5,7 @@ define( function( require ) {
 
 	var ShirtsCollectionView  = require( 'js/views/shirtsCollectionView' );
 	var ShirtModel = require( 'js/models/shirtsModel' );
-	var TagListView = require( 'js/views/tagsView' );
+	var TagsCollectionView = require( 'js/views/tagsCollectionView' );
 	var DetailView  = require( 'js/views/shirtsDetailView' );
 	var ScraperView = require( 'js/views/scraper' );
 
@@ -16,33 +16,50 @@ define( function( require ) {
 		, routes : {
 			'': 'home',
 			':slug/shirt/:dampId': 'details',
-			'tag-list': 'tagList',
+			':slug/tag/:tagId': 'tag', 
+			'tags': 'tagList',
 			'scraper': 'scraper'
 		}
 		, home : function() {
-			this.app.mainLayout.content.show( new ShirtsCollectionView( this.app ) );
+			this.app.router.navigate( '/' );
+			this.app.mainLayout.content.show( new ShirtsCollectionView( {
+				app: this.app 
+			} ) );
 		}
 		, details : function( slug, dampId ) {
 			var shirtModel = this.app.shirtModel;
 			
 			// Check if the model is set
-			if( !shirtModel.has( 'id' ) ) {
-				
-				console.log( "NO MODEL" );
-				
+			if( !shirtModel.has( 'id' ) ) {				
 				shirtModel = new ShirtModel( { 'dampId': dampId } );
 				shirtModel.fetch().done( _.bind( function( data ) {
 					this.app.shirtModel = new ShirtModel( data );
-					this.app.mainLayout.content.show( new DetailView( { model: this.app.shirtModel } ) );
+					this.app.mainLayout.content.show( new DetailView( {
+						app: this.app
+						, model: this.app.shirtModel
+					} ) );
 				}, this ) );
 			} else {
-				this.app.mainLayout.content.show( new DetailView( { model: shirtModel } ) );
+				this.app.mainLayout.content.show( new DetailView( {
+					app: this.app
+					, model: shirtModel
+				} ) );
 			}
 		}
-		, tagList : function() {
-			this.app.body.currentView.content.show( new TagListView() );
+		, tag: function( slug, tagId ) {
+			this.app.mainLayout.content.show( new ShirtsCollectionView( {
+				app: this.app
+				, tagId: tagId
+			} ) );
 		}
-		, scraper : function() {
+		, tagList: function() {
+			$.when( this.app.tagsCollection.fetch() ).done( _.bind( function() {
+				this.app.body.currentView.content.show( new TagsCollectionView( {
+					app: this.app
+				} ) );
+			}, this ) );
+		}
+		, scraper: function() {
 			this.app.mainLayout.content.show( new ScraperView( this.app ) );
 		}
 	});

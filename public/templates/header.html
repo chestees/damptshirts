@@ -1,20 +1,35 @@
-<div id="logo"></div>
-<div style="float:right;">
-  <div id="navBar" class="clearfix">
-    <!-- START SEARCH -->
-    <div class="search clearfix">
-      <input type="text" id="inpSearch" class="inpSearch" />
-      <a id="btnSearch" class="btn btnSearch"><span>Search</span></a>
-    </div>
-    <!-- END SEARCH -->  
-    <div class="nav clearfix">
-      <ul class="nav nav-pills">
-        <li><a href="http://t-shirts-blog.damptshirts.com/">T-Shirt Blog</a></li>
-        <li><a href="/t-shirt-coupons/">T-Shirt Coupons and Codes</a></li>
-        <li role="presentation" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Popular Tags</a>
-          <ul class="dropdown-menu"></ul>
-        </li>
-      </ul>
-    </div>
-  </div>
+<div class="row">
+	<div class="col-md-2" id="logo"></div>
+	<div class="header-items col-md-10">
+		<div class="row">
+			<div class="col-md-8 clearfix">
+				<ul class="nav nav-pills">
+					<li><a class="btn btn-nav" href="http://t-shirts-blog.damptshirts.com/">T-Shirt Blog</a></li>
+					<li><a class="btn btn-nav" href="/t-shirt-coupons/">T-Shirt Coupons and Codes</a></li>
+					<li>
+						<div class="btn-group">
+							<a href="#/tags" class="btn btn-nav">Popular Tags</a>
+							<a class="btn btn-nav dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+								<span class="caret"></span>
+								<span class="sr-only">Toggle Dropdown</span>
+							</a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="#">Action</a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="col-md-4">
+				<!-- START SEARCH -->
+				<div class="input-group">
+					<input type="text" class="form-control" placeholder="Search shirts...">
+					<span class="input-group-btn">
+						<button class="btn btn-default" type="button"><span class="glyphicon glyphicon-search"></span></button>
+					</span>
+				</div>
+				<!-- END SEARCH -->
+			</div>
+		</div>
+	</div>
 </div>

@@ -10,6 +10,7 @@ define( function( require ) {
 	options = {};
 	var HeaderView = Marionette.ItemView.extend({
 		template: _.template( tmplHeader )
+		, className: 'container-fluid'
 		, ui: {
 			'logo': '#logo'
 		}
@@ -21,12 +22,10 @@ define( function( require ) {
 		}
 		, render: function() {
 			this.$el.html( this.template( options ) );
-			console.log("Header Rendered!");
 			return this;
 		}
 		, showHome: function() {
-			this.app.mainLayout.content.show( new ShirtsCollectionView( this.app ) );
-			this.app.router.navigate( '/' );
+			this.app.router.home();
 		}
 	});
 
