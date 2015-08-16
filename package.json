@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "postinstall": "bower install"
+    "postinstall": "./node_modules/bower/bin/bower install"
   },
   "engines": {
     "node": "0.10.x"
@@ -15,7 +15,8 @@
     "request": "~2.53.0",
     "cheerio": "~0.18.0",
     "underscore": "~1.8.2",
-    "mssql": "~2.1.2"
+    "mssql": "~2.1.2",
+    "bower": "~1.4.1"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
