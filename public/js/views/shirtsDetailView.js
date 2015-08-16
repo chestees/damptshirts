@@ -53,8 +53,6 @@ define( function( require ) {
 					return vendor;
 				}
 			}, this ) );
-
-
 		}
 		, onRender: function() {
 			this.app.ogUrl.attr( 'content', '/#/' + this.model.get( 'slug' ) + '/shirt/' + this.model.id );
