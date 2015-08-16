@@ -19,10 +19,13 @@
     "marionette": "~2.2.2",
     "requirejs": "~2.1.11",
     "requirejs-text": "~2.0.10",
-    "underscore": "~1.6.0",
+    "underscore": "~1.7.0",
     "velocity": "~1.1.*",
     "moment": "~2.8.3",
     "handlebars": "~3.0.3",
     "uri.js": "~1.15.1"
+  },
+  "resolutions": {
+    "underscore": ">=1.7.0"
   }
 }
