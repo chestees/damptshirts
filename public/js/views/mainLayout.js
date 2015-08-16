@@ -28,7 +28,7 @@ define( function( require ) {
 		}
 		, fbAsyncInit: function() {
             FB.init({
-                appId      : '243380072355004',
+                appId      : '1214965635196438',
                 xfbml      : true,
                 version    : 'v2.0'
             });
