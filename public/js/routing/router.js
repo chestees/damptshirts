@@ -15,7 +15,7 @@ define( function( require ) {
 		}
 		, routes : {
 			'': 'home',
-			':slug/shirt/:dampId': 'details',
+			':slug/:dampId': 'shirt',
 			':slug/tag/:tagId': 'tag', 
 			'tags': 'tagList',
 			'scraper': 'scraper'
@@ -26,7 +26,7 @@ define( function( require ) {
 				app: this.app 
 			} ) );
 		}
-		, details : function( slug, dampId ) {
+		, shirt : function( slug, dampId ) {
 			var shirtModel = this.app.shirtModel;
 			
 			// Check if the model is set
